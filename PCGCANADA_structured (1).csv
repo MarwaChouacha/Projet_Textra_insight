@@ -1,0 +1,96 @@
+Catégorie,Définition Catégorie,Sous-Catégorie,Compte,Définition Sous-Catégorie
+Actif,Comptes représentant les actifs de l'entreprise.,Petite caisse,1000,Ce compte enregistre les liquidités détenues en petite caisse par l'entreprise.
+Actif,Comptes représentant les actifs de l'entreprise.,Banque,1010,Ce compte enregistre les fonds détenus en banque.
+Actif,Comptes représentant les actifs de l'entreprise.,Comptes à recevoir,1020,Ce compte enregistre les créances clients.
+Actif,Comptes représentant les actifs de l'entreprise.,Provision pour créances douteuses,1030,Ce compte enregistre les provisions pour créances douteuses.
+Actif,Comptes représentant les actifs de l'entreprise.,Stocks - matières premières,1040,Ce compte enregistre la valeur des matières premières détenues par l'entreprise.
+Actif,Comptes représentant les actifs de l'entreprise.,Stocks - produits en cours,1060,Ce compte enregistre la valeur des produits en cours de fabrication.
+Actif,Comptes représentant les actifs de l'entreprise.,Stocks - produits finis,1080,Ce compte enregistre la valeur des produits finis destinés à la vente.
+Actif,Comptes représentant les actifs de l'entreprise.,Avances sur commissions,1100,Ce compte enregistre les avances accordées sur commissions.
+Actif,Comptes représentant les actifs de l'entreprise.,Avances aux employés,1120,Ce compte enregistre les avances de fonds accordées aux employés.
+Actif,Comptes représentant les actifs de l'entreprise.,Avances aux actionnaires,1140,Ce compte enregistre les avances de fonds accordées aux actionnaires.
+Actif,Comptes représentant les actifs de l'entreprise.,Subventions à recevoir,1150,Ce compte enregistre les subventions dues à l'entreprise.
+Actif,Comptes représentant les actifs de l'entreprise.,Frais payés d’avance - taxes,1160,Ce compte enregistre les frais payés d’avance liés aux taxes.
+Actif,Comptes représentant les actifs de l'entreprise.,Frais payés d’avance - assurances,1165,Ce compte enregistre les frais d’assurance payés d’avance.
+Actif,Comptes représentant les actifs de l'entreprise.,Frais payés d’avance - publicité,1170,Ce compte enregistre les frais de publicité payés d’avance.
+Actif,Comptes représentant les actifs de l'entreprise.,T.P.S. à récupérer,1180,Ce compte enregistre la taxe sur les produits et services récupérable.
+Actif,Comptes représentant les actifs de l'entreprise.,T.V.Q. à récupérer,1190,Ce compte enregistre la taxe de vente du Québec récupérable.
+Actif,Comptes représentant les actifs de l'entreprise.,Dépôts,1200,Ce compte enregistre les dépôts effectués par l'entreprise.
+Actif,Comptes représentant les actifs de l'entreprise.,Placements,1250,Ce compte enregistre les placements financiers détenus par l'entreprise.
+Actif,Comptes représentant les actifs de l'entreprise.,Terrain,1400,Ce compte enregistre la valeur des terrains détenus par l'entreprise.
+Actif,Comptes représentant les actifs de l'entreprise.,Bâtiment,1405,Ce compte enregistre la valeur des bâtiments détenus par l'entreprise.
+Actif,Comptes représentant les actifs de l'entreprise.,Amortissement accumulé - bâtiment,1408,Ce compte enregistre l’amortissement accumulé des bâtiments.
+Actif,Comptes représentant les actifs de l'entreprise.,Machinerie et équipement,1410,Ce compte enregistre la valeur de la machinerie et de l’équipement.
+Actif,Comptes représentant les actifs de l'entreprise.,Amortissement accumulé - machinerie et équipement,1413,Ce compte enregistre l’amortissement accumulé des équipements.
+Actif,Comptes représentant les actifs de l'entreprise.,Matériel roulant,1420,Ce compte enregistre la valeur des véhicules et équipements roulants.
+Actif,Comptes représentant les actifs de l'entreprise.,Amortissement accumulé - matériel roulant,1423,Ce compte enregistre l’amortissement accumulé des équipements roulants.
+Actif,Comptes représentant les actifs de l'entreprise.,Mobilier et équipement de bureau,1430,Ce compte enregistre la valeur des meubles et équipements de bureau.
+Actif,Comptes représentant les actifs de l'entreprise.,Amortissement accumulé - mobilier et équipement de bureau,1433,Ce compte enregistre l’amortissement accumulé du mobilier et équipement de bureau.
+Actif,Comptes représentant les actifs de l'entreprise.,Entrepôt,1440,Ce compte enregistre la valeur des entrepôts détenus par l'entreprise.
+Actif,Comptes représentant les actifs de l'entreprise.,Amortissement accumulé - entrepôt,1443,Ce compte enregistre l’amortissement accumulé des entrepôts.
+Actif,Comptes représentant les actifs de l'entreprise.,Équipement informatique,1445,Ce compte enregistre la valeur des équipements informatiques.
+Actif,Comptes représentant les actifs de l'entreprise.,Amortissement accumulé - équipement informatique,1448,Ce compte enregistre l’amortissement accumulé des équipements informatiques.
+Actif,Comptes représentant les actifs de l'entreprise.,Logiciels,1450,Ce compte enregistre la valeur des logiciels détenus par l'entreprise.
+Actif,Comptes représentant les actifs de l'entreprise.,Amortissement accumulé - logiciels,1453,Ce compte enregistre l’amortissement accumulé des logiciels.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Emprunt de banque,2000,Ce compte enregistre les emprunts contractés auprès des banques.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Comptes à payer,2020,Ce compte enregistre les dettes de l'entreprise envers ses fournisseurs.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Salaires à payer,2040,Ce compte enregistre les salaires dus aux employés mais non encore versés.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Commissions à payer,2060,Ce compte enregistre les commissions dues aux agents commerciaux.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Impôt fédéral sur salaires à payer,2100,Ce compte enregistre les impôts fédéraux sur les salaires à payer.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Impôt provincial sur salaires à payer,2120,Ce compte enregistre les impôts provinciaux sur les salaires à payer.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,TPS à payer,2260,Ce compte enregistre la taxe sur les produits et services à payer.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,TVQ à payer,2280,Ce compte enregistre la taxe de vente du Québec à payer.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Dépôts de clients,2300,Ce compte enregistre les dépôts effectués par les clients pour des services futurs.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Hypothèque à payer,2500,Ce compte enregistre les hypothèques souscrites par l'entreprise.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Liens sur machinerie,2550,Ce compte enregistre les prêts garantis par des équipements de machinerie.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Liens sur matériel roulant,2570,Ce compte enregistre les prêts garantis par des véhicules de l'entreprise.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Capital - actions ordinaires,2900,Ce compte enregistre la valeur des actions ordinaires émises par l'entreprise.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Capital - actions privilégiées,2920,Ce compte enregistre la valeur des actions privilégiées émises par l'entreprise.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Surplus d’apport,2950,Ce compte enregistre les apports des actionnaires excédant la valeur nominale des actions.
+Passif,Comptes représentant les obligations financières et les dettes de l'entreprise.,Bénéfices non répartis,2970,Ce compte enregistre les bénéfices accumulés non distribués aux actionnaires.
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Vente de produits finis,3000,Ce compte enregistre les revenus générés par la vente de produits finis fabriqués ou achetés par l'entreprise.
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Vente de services,3010,Ce compte enregistre les revenus générés par la prestation de services fournis par l'entreprise.
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Vente de marchandises,3020,Ce compte enregistre les revenus générés par la vente de marchandises achetées et revendues sans transformation.
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Vente d'une immobilisation,3030,Ce compte enregistre les revenus générés par la cession d'immobilisations corporelles et incorporelles.
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Autres gains divers,3040,Ce compte enregistre les gains exceptionnels ou non récurrents liés à des opérations inhabituelles.
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Revenus de location,3050,Ce compte enregistre les revenus générés par la location d'équipements ou d'immeubles appartenant à l'entreprise.
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Gain de change,3060,Ce compte enregistre les gains réalisés en raison des fluctuations des taux de change sur les transactions en devises étrangères.
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Produits financiers,3070,"Ce compte enregistre les intérêts perçus, les dividendes et autres revenus issus des placements financiers."
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Subventions reçues,3080,Ce compte enregistre les subventions gouvernementales et autres aides financières perçues par l'entreprise.
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Escomptes de volume sur ventes,3800,Ce compte enregistre les réductions accordées aux clients en fonction du volume des ventes réalisées.
+Ventes,Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.,Marchandises retournées,3900,Ce compte enregistre la valeur des produits retournés par les clients après la vente.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Achats de matières premières,4000,Ce compte enregistre les coûts des matières premières utilisées dans la fabrication des produits.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Achats de matériel direct,4100,Ce compte enregistre les achats de matériel utilisé directement dans la production.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Sous-traitance,4200,Ce compte enregistre les coûts des services de sous-traitance utilisés pour la production.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Emballage à la production,4300,Ce compte enregistre les coûts d’emballage liés à la production de biens.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Main-d’œuvre directe,4400,Ce compte enregistre les salaires des employés directement impliqués dans la production.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Avantages sociaux,4500,Ce compte enregistre les avantages sociaux versés aux employés de production.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Droits d’auteurs,4600,Ce compte enregistre les coûts liés aux droits d’auteur pour l’utilisation de contenu protégé.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Achats de produits non fabriqués,4700,Ce compte enregistre l’achat de produits finis destinés à la revente sans transformation.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Variation des stocks,4750,Ce compte enregistre les variations de stocks entre le début et la fin d’une période comptable.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Commissions,4800,Ce compte enregistre les commissions versées aux vendeurs ou représentants.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Transport (à contrat),4850,Ce compte enregistre les frais de transport engagés via des contrats externes.
+Frais variables,Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.,Redevances,4900,Ce compte enregistre les redevances payées pour l’utilisation de licences ou brevets.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Salaires de supervision,6000,Ce compte enregistre les salaires des superviseurs et contremaîtres en production.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Salaires de soutien,6010,"Ce compte enregistre les salaires du personnel de soutien (concierges, inspecteurs, acheteurs, etc.)."
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Entretien du terrain,6100,Ce compte enregistre les frais liés à l’entretien du terrain et des installations.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Fournitures d’usine,6200,Ce compte enregistre les coûts des fournitures utilisées dans l’usine.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Réparations et entretien - bâtiment,6210,Ce compte enregistre les coûts liés à l’entretien et aux réparations des bâtiments.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Réparations et entretien - machinerie et équipement,5220,Ce compte enregistre les coûts d’entretien et de réparation des équipements de production.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Dépenses - matériel roulant,6230,Ce compte enregistre les coûts d’entretien et d’utilisation des véhicules de l’entreprise.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Location de machinerie,6250,Ce compte enregistre les frais de location de machines utilisées en production.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Énergie,6300,"Ce compte enregistre les coûts d’électricité, gaz, et autres sources d’énergie utilisées par l’entreprise."
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Taxes foncières,6400,Ce compte enregistre les taxes foncières payées par l’entreprise.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Loyer - bâtiment,6500,Ce compte enregistre les frais de location des bâtiments utilisés par l’entreprise.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Assurances,6600,"Ce compte enregistre les primes d’assurance pour les bâtiments, équipements et responsabilité civile."
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Amortissements - bâtiment,6700,Ce compte enregistre l’amortissement des bâtiments de l’entreprise.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Amortissements - machinerie et équipement,6710,Ce compte enregistre l’amortissement des machines et équipements de production.
+Frais fixes,Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.,Amortissements - matériel roulant,6720,Ce compte enregistre l’amortissement des véhicules de l’entreprise.
+Charges financières,Comptes représentant les frais financiers de l'entreprise.,Intérêts sur emprunts,7000,Ce compte enregistre les intérêts payés sur les emprunts contractés par l'entreprise.
+Charges financières,Comptes représentant les frais financiers de l'entreprise.,Pertes de change,7010,Ce compte enregistre les pertes dues aux fluctuations des taux de change.
+Charges financières,Comptes représentant les frais financiers de l'entreprise.,Commissions bancaires,7020,Ce compte enregistre les commissions perçues par les banques pour les services rendus à l'entreprise.
+Charges financières,Comptes représentant les frais financiers de l'entreprise.,Frais financiers divers,7030,Ce compte enregistre les autres frais financiers engagés par l'entreprise.
+Résultat,Comptes représentant le résultat net de l'entreprise.,Bénéfice avant impôt,9000,Ce compte enregistre le bénéfice de l'entreprise avant la déduction des impôts.
+Résultat,Comptes représentant le résultat net de l'entreprise.,Impôt sur le revenu,9100,Ce compte enregistre l'impôt sur le revenu dû par l'entreprise.
+Résultat,Comptes représentant le résultat net de l'entreprise.,Bénéfice net,9200,Ce compte enregistre le bénéfice net après la déduction des impôts.
+Résultat,Comptes représentant le résultat net de l'entreprise.,Perte nette,9300,Ce compte enregistre la perte nette après la déduction des impôts.
