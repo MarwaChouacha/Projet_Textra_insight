@@ -1,0 +1,145 @@
+[
+    {
+      "intitule": "Actif",
+      "description": "Comptes représentant les actifs de l'entreprise.",
+      "sous_categories": [
+        { "name": "Petite caisse", "compte": "1000", "definition": "Ce compte enregistre les liquidités détenues en petite caisse par l'entreprise." },
+        { "name": "Banque", "compte": "1010", "definition": "Ce compte enregistre les fonds détenus en banque." },
+        { "name": "Comptes à recevoir", "compte": "1020", "definition": "Ce compte enregistre les créances clients." },
+        { "name": "Provision pour créances douteuses", "compte": "1030", "definition": "Ce compte enregistre les provisions pour créances douteuses." },
+        { "name": "Stocks - matières premières", "compte": "1040", "definition": "Ce compte enregistre la valeur des matières premières détenues par l'entreprise." },
+        { "name": "Stocks - produits en cours", "compte": "1060", "definition": "Ce compte enregistre la valeur des produits en cours de fabrication." },
+        { "name": "Stocks - produits finis", "compte": "1080", "definition": "Ce compte enregistre la valeur des produits finis destinés à la vente." },
+        { "name": "Avances sur commissions", "compte": "1100", "definition": "Ce compte enregistre les avances accordées sur commissions." },
+        { "name": "Avances aux employés", "compte": "1120", "definition": "Ce compte enregistre les avances de fonds accordées aux employés." },
+        { "name": "Avances aux actionnaires", "compte": "1140", "definition": "Ce compte enregistre les avances de fonds accordées aux actionnaires." },
+        { "name": "Subventions à recevoir", "compte": "1150", "definition": "Ce compte enregistre les subventions dues à l'entreprise." },
+        { "name": "Frais payés d’avance - taxes", "compte": "1160", "definition": "Ce compte enregistre les frais payés d’avance liés aux taxes." },
+        { "name": "Frais payés d’avance - assurances", "compte": "1165", "definition": "Ce compte enregistre les frais d’assurance payés d’avance." },
+        { "name": "Frais payés d’avance - publicité", "compte": "1170", "definition": "Ce compte enregistre les frais de publicité payés d’avance." },
+        { "name": "T.P.S. à récupérer", "compte": "1180", "definition": "Ce compte enregistre la taxe sur les produits et services récupérable." },
+        { "name": "T.V.Q. à récupérer", "compte": "1190", "definition": "Ce compte enregistre la taxe de vente du Québec récupérable." },
+        { "name": "Dépôts", "compte": "1200", "definition": "Ce compte enregistre les dépôts effectués par l'entreprise." },
+        { "name": "Placements", "compte": "1250", "definition": "Ce compte enregistre les placements financiers détenus par l'entreprise." },
+        { "name": "Terrain", "compte": "1400", "definition": "Ce compte enregistre la valeur des terrains détenus par l'entreprise." },
+        { "name": "Bâtiment", "compte": "1405", "definition": "Ce compte enregistre la valeur des bâtiments détenus par l'entreprise." },
+        { "name": "Amortissement accumulé - bâtiment", "compte": "1408", "definition": "Ce compte enregistre l’amortissement accumulé des bâtiments." },
+        { "name": "Machinerie et équipement", "compte": "1410", "definition": "Ce compte enregistre la valeur de la machinerie et de l’équipement." },
+        { "name": "Amortissement accumulé - machinerie et équipement", "compte": "1413", "definition": "Ce compte enregistre l’amortissement accumulé des équipements." },
+        { "name": "Matériel roulant", "compte": "1420", "definition": "Ce compte enregistre la valeur des véhicules et équipements roulants." },
+        { "name": "Amortissement accumulé - matériel roulant", "compte": "1423", "definition": "Ce compte enregistre l’amortissement accumulé des équipements roulants." },
+        { "name": "Mobilier et équipement de bureau", "compte": "1430", "definition": "Ce compte enregistre la valeur des meubles et équipements de bureau." },
+        { "name": "Amortissement accumulé - mobilier et équipement de bureau", "compte": "1433", "definition": "Ce compte enregistre l’amortissement accumulé du mobilier et équipement de bureau." },
+        { "name": "Entrepôt", "compte": "1440", "definition": "Ce compte enregistre la valeur des entrepôts détenus par l'entreprise." },
+        { "name": "Amortissement accumulé - entrepôt", "compte": "1443", "definition": "Ce compte enregistre l’amortissement accumulé des entrepôts." },
+        { "name": "Équipement informatique", "compte": "1445", "definition": "Ce compte enregistre la valeur des équipements informatiques." },
+        { "name": "Amortissement accumulé - équipement informatique", "compte": "1448", "definition": "Ce compte enregistre l’amortissement accumulé des équipements informatiques." },
+        { "name": "Logiciels", "compte": "1450", "definition": "Ce compte enregistre la valeur des logiciels détenus par l'entreprise." },
+        { "name": "Amortissement accumulé - logiciels", "compte": "1453", "definition": "Ce compte enregistre l’amortissement accumulé des logiciels." }
+      ]
+    },
+    {
+      "intitule": "Passif",
+      "description": "Comptes représentant les obligations financières et les dettes de l'entreprise.",
+      "sous_categories": [
+        { "name": "Emprunt de banque", "compte": "2000", "definition": "Ce compte enregistre les emprunts contractés auprès des banques." },
+        { "name": "Comptes à payer", "compte": "2020", "definition": "Ce compte enregistre les dettes de l'entreprise envers ses fournisseurs." },
+        { "name": "Salaires à payer", "compte": "2040", "definition": "Ce compte enregistre les salaires dus aux employés mais non encore versés." },
+        { "name": "Commissions à payer", "compte": "2060", "definition": "Ce compte enregistre les commissions dues aux agents commerciaux." },
+        { "name": "Impôt fédéral sur salaires à payer", "compte": "2100", "definition": "Ce compte enregistre les impôts fédéraux sur les salaires à payer." },
+        { "name": "Impôt provincial sur salaires à payer", "compte": "2120", "definition": "Ce compte enregistre les impôts provinciaux sur les salaires à payer." },
+        { "name": "TPS à payer", "compte": "2260", "definition": "Ce compte enregistre la taxe sur les produits et services à payer." },
+        { "name": "TVQ à payer", "compte": "2280", "definition": "Ce compte enregistre la taxe de vente du Québec à payer." },
+        { "name": "Dépôts de clients", "compte": "2300", "definition": "Ce compte enregistre les dépôts effectués par les clients pour des services futurs." },
+        { "name": "Hypothèque à payer", "compte": "2500", "definition": "Ce compte enregistre les hypothèques souscrites par l'entreprise." },
+        { "name": "Liens sur machinerie", "compte": "2550", "definition": "Ce compte enregistre les prêts garantis par des équipements de machinerie." },
+        { "name": "Liens sur matériel roulant", "compte": "2570", "definition": "Ce compte enregistre les prêts garantis par des véhicules de l'entreprise." },
+        { "name": "Capital - actions ordinaires", "compte": "2900", "definition": "Ce compte enregistre la valeur des actions ordinaires émises par l'entreprise." },
+        { "name": "Capital - actions privilégiées", "compte": "2920", "definition": "Ce compte enregistre la valeur des actions privilégiées émises par l'entreprise." },
+        { "name": "Surplus d’apport", "compte": "2950", "definition": "Ce compte enregistre les apports des actionnaires excédant la valeur nominale des actions." },
+        { "name": "Bénéfices non répartis", "compte": "2970", "definition": "Ce compte enregistre les bénéfices accumulés non distribués aux actionnaires." }
+      ]
+    },
+    {
+        "intitule": "Ventes",
+        "description": "Comptes représentant les revenus générés par les ventes de biens et services de l'entreprise.",
+        "sous_categories": [
+          { "name": "Vente de produits finis", "compte": "3000", "definition": "Ce compte enregistre les revenus générés par la vente de produits finis fabriqués ou achetés par l'entreprise." },
+          { "name": "Vente de services", "compte": "3010", "definition": "Ce compte enregistre les revenus générés par la prestation de services fournis par l'entreprise." },
+          { "name": "Vente de marchandises", "compte": "3020", "definition": "Ce compte enregistre les revenus générés par la vente de marchandises achetées et revendues sans transformation." },
+          { "name": "Vente d'une immobilisation", "compte": "3030", "definition": "Ce compte enregistre les revenus générés par la cession d'immobilisations corporelles et incorporelles." },
+          { "name": "Autres gains divers", "compte": "3040", "definition": "Ce compte enregistre les gains exceptionnels ou non récurrents liés à des opérations inhabituelles." },
+          { "name": "Revenus de location", "compte": "3050", "definition": "Ce compte enregistre les revenus générés par la location d'équipements ou d'immeubles appartenant à l'entreprise." },
+          { "name": "Gain de change", "compte": "3060", "definition": "Ce compte enregistre les gains réalisés en raison des fluctuations des taux de change sur les transactions en devises étrangères." },
+          { "name": "Produits financiers", "compte": "3070", "definition": "Ce compte enregistre les intérêts perçus, les dividendes et autres revenus issus des placements financiers." },
+          { "name": "Subventions reçues", "compte": "3080", "definition": "Ce compte enregistre les subventions gouvernementales et autres aides financières perçues par l'entreprise." },
+          { "name": "Escomptes de volume sur ventes", "compte": "3800", "definition": "Ce compte enregistre les réductions accordées aux clients en fonction du volume des ventes réalisées." },
+          { "name": "Marchandises retournées", "compte": "3900", "definition": "Ce compte enregistre la valeur des produits retournés par les clients après la vente." }
+        ]
+      },
+      {
+        "intitule": "Frais variables",
+        "description": "Comptes représentant les coûts liés à la production et aux ventes qui varient en fonction du volume d'activité.",
+        "sous_categories": [
+          { "name": "Achats de matières premières", "compte": "4000", "definition": "Ce compte enregistre les coûts des matières premières utilisées dans la fabrication des produits." },
+          { "name": "Achats de matériel direct", "compte": "4100", "definition": "Ce compte enregistre les achats de matériel utilisé directement dans la production." },
+          { "name": "Sous-traitance", "compte": "4200", "definition": "Ce compte enregistre les coûts des services de sous-traitance utilisés pour la production." },
+          { "name": "Emballage à la production", "compte": "4300", "definition": "Ce compte enregistre les coûts d’emballage liés à la production de biens." },
+          { "name": "Main-d’œuvre directe", "compte": "4400", "definition": "Ce compte enregistre les salaires des employés directement impliqués dans la production." },
+          { "name": "Avantages sociaux", "compte": "4500", "definition": "Ce compte enregistre les avantages sociaux versés aux employés de production." },
+          { "name": "Droits d’auteurs", "compte": "4600", "definition": "Ce compte enregistre les coûts liés aux droits d’auteur pour l’utilisation de contenu protégé." },
+          { "name": "Achats de produits non fabriqués", "compte": "4700", "definition": "Ce compte enregistre l’achat de produits finis destinés à la revente sans transformation." },
+          { "name": "Variation des stocks", "compte": "4750", "definition": "Ce compte enregistre les variations de stocks entre le début et la fin d’une période comptable." },
+          { "name": "Commissions", "compte": "4800", "definition": "Ce compte enregistre les commissions versées aux vendeurs ou représentants." },
+          { "name": "Transport (à contrat)", "compte": "4850", "definition": "Ce compte enregistre les frais de transport engagés via des contrats externes." },
+          { "name": "Redevances", "compte": "4900", "definition": "Ce compte enregistre les redevances payées pour l’utilisation de licences ou brevets." }
+        ]
+      },
+      {
+        "intitule": "Frais fixes",
+        "description": "Comptes représentant les coûts fixes de l'entreprise qui ne varient pas directement avec le niveau d'activité.",
+        "sous_categories": [
+          { "name": "Salaires de supervision", "compte": "6000", "definition": "Ce compte enregistre les salaires des superviseurs et contremaîtres en production." },
+          { "name": "Salaires de soutien", "compte": "6010", "definition": "Ce compte enregistre les salaires du personnel de soutien (concierges, inspecteurs, acheteurs, etc.)." },
+          { "name": "Entretien du terrain", "compte": "6100", "definition": "Ce compte enregistre les frais liés à l’entretien du terrain et des installations." },
+          { "name": "Fournitures d’usine", "compte": "6200", "definition": "Ce compte enregistre les coûts des fournitures utilisées dans l’usine." },
+          { "name": "Réparations et entretien - bâtiment", "compte": "6210", "definition": "Ce compte enregistre les coûts liés à l’entretien et aux réparations des bâtiments." },
+          { "name": "Réparations et entretien - machinerie et équipement", "compte": "5220", "definition": "Ce compte enregistre les coûts d’entretien et de réparation des équipements de production." },
+          { "name": "Dépenses - matériel roulant", "compte": "6230", "definition": "Ce compte enregistre les coûts d’entretien et d’utilisation des véhicules de l’entreprise." },
+          { "name": "Location de machinerie", "compte": "6250", "definition": "Ce compte enregistre les frais de location de machines utilisées en production." },
+          { "name": "Énergie", "compte": "6300", "definition": "Ce compte enregistre les coûts d’électricité, gaz, et autres sources d’énergie utilisées par l’entreprise." },
+          { "name": "Taxes foncières", "compte": "6400", "definition": "Ce compte enregistre les taxes foncières payées par l’entreprise." },
+          { "name": "Loyer - bâtiment", "compte": "6500", "definition": "Ce compte enregistre les frais de location des bâtiments utilisés par l’entreprise." },
+          { "name": "Assurances", "compte": "6600", "definition": "Ce compte enregistre les primes d’assurance pour les bâtiments, équipements et responsabilité civile." },
+          { "name": "Amortissements - bâtiment", "compte": "6700", "definition": "Ce compte enregistre l’amortissement des bâtiments de l’entreprise." },
+          { "name": "Amortissements - machinerie et équipement", "compte": "6710", "definition": "Ce compte enregistre l’amortissement des machines et équipements de production." },
+          { "name": "Amortissements - matériel roulant", "compte": "6720", "definition": "Ce compte enregistre l’amortissement des véhicules de l’entreprise." }
+        ]
+      },
+      {
+        "intitule": "Charges financières",
+        "description": "Comptes représentant les frais financiers de l'entreprise.",
+        "sous_categories": [
+          { "name": "Intérêts sur emprunts", "compte": "7000", "definition": "Ce compte enregistre les intérêts payés sur les emprunts contractés par l'entreprise." },
+          { "name": "Pertes de change", "compte": "7010", "definition": "Ce compte enregistre les pertes dues aux fluctuations des taux de change." },
+          { "name": "Commissions bancaires", "compte": "7020", "definition": "Ce compte enregistre les commissions perçues par les banques pour les services rendus à l'entreprise." },
+          { "name": "Frais financiers divers", "compte": "7030", "definition": "Ce compte enregistre les autres frais financiers engagés par l'entreprise." }
+        ]
+      },
+      {
+        "intitule": "Résultat",
+        "description": "Comptes représentant le résultat net de l'entreprise.",
+        "sous_categories": [
+          { "name": "Bénéfice avant impôt", "compte": "9000", "definition": "Ce compte enregistre le bénéfice de l'entreprise avant la déduction des impôts." },
+          { "name": "Impôt sur le revenu", "compte": "9100", "definition": "Ce compte enregistre l'impôt sur le revenu dû par l'entreprise." },
+          { "name": "Bénéfice net", "compte": "9200", "definition": "Ce compte enregistre le bénéfice net après la déduction des impôts." },
+          { "name": "Perte nette", "compte": "9300", "definition": "Ce compte enregistre la perte nette après la déduction des impôts." }
+        ]
+      }
+    ]
+    
+    
+
+    
+  
+  
