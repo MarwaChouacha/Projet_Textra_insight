@@ -1,0 +1,580 @@
+Catégorie,Définition Catégorie,Sous-Catégorie,Compte,Définition Sous-Catégorie
+Actif,"Un actif est un bien ou un droit que possède une entreprise, qui peut générer des revenus ou de la valeur future.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise. 2. Des équipements de production comme des machines. 3. Des véhicules pour la livraison des produits. 4. Des stocks de marchandises à vendre. 5. Des brevets ou des droits de propriété intellectuelle. 6. Des comptes clients, représentant l'argent dû par les clients. 7. Des investissements financiers dans d'autres entreprises. 8. Des terrains possédés par l'entreprise. 9. Des ordinateurs et des logiciels utilisés au travail. 10. Des meubles de bureau. 11. Des dépôts bancaires. 12. Des contrats à long terme qui génèrent des revenus. 13. Des droits d'utilisation d'une propriété. 14. Des œuvres d'art possédées par l'entreprise. 15. Des licences pour exploiter certaines technologies.",Petite caisse,1000,Ce compte enregistre les liquidités détenues en petite caisse par l'entreprise.
+Actif,"Les actifs sont des biens ou des ressources possédés par une entreprise, qui ont de la valeur et peuvent être utilisés pour générer des revenus.
+
+1. Un immeuble utilisé comme bureau par une entreprise. 2. Du matériel informatique comme des ordinateurs et des serveurs. 3. Un véhicule de livraison pour le transport des produits. 4. Des stocks de marchandises en attente de vente. 5. Des brevets ou des droits d'auteur qui apportent des revenus. 6. Des investissements financiers dans d'autres sociétés. 7. Des comptes bancaires avec des fonds disponibles. 8. Des machines utilisées dans un processus de production. 9. Des terrains appartenant à l'entreprise. 10. Un mobilier de bureau comme des chaises et des tables. 11. Des équipements de fabrication nécessaires à la production. 12. Des logiciels achetés pour améliorer la productivité. 13. Des créances clients, représentant l'argent dû à l'entreprise. 14. Des licences d'exploitation pour utiliser des technologies spécifiques. 15. Des œuvres d'art possédées par l'entreprise et pouvant être vendues.",Banque,1010,Ce compte enregistre les fonds détenus en banque.
+Actif,"Les actifs sont des ressources possédées par une entreprise, qui ont de la valeur et peuvent générer des bénéfices à l'avenir.
+
+1. Un bâtiment utilisé comme bureau. 2. Des machines pour la production. 3. Un véhicule de livraison. 4. Des stocks de marchandises à vendre. 5. Des brevets technologiques. 6. Des meubles de bureau. 7. Des ordinateurs et équipements électroniques. 8. De l'argent en banque. 9. Des investissements dans d'autres entreprises. 10. Des terrains détenus par l'entreprise. 11. Des créances clients (argent à recevoir). 12. Des logiciels achetés pour le fonctionnement. 13. Des œuvres d'art ou objets de valeur. 14. Des droits d'utilisation de propriété intellectuelle. 15. Des licences et permis nécessaires à l'activité.",Comptes à recevoir,1020,Ce compte enregistre les créances clients.
+Actif,"Un actif est un bien ou un droit possédé par une entreprise, qui a de la valeur et peut être utilisé pour générer des revenus.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise. 2. Des machines et équipements pour la production. 3. Des véhicules pour la livraison des produits. 4. Des stocks de marchandises prêts à être vendus. 5. Des brevets qui protègent des inventions. 6. Des comptes à recevoir provenant de clients. 7. Des investissements dans d'autres entreprises. 8. Des terrains détenus par l'entreprise. 9. De l'argent liquide dans la caisse de l'entreprise. 10. Des logiciels achetés pour améliorer la productivité. 11. Des meubles et fournitures de bureau. 12. Des droits d'auteur sur des créations artistiques. 13. Des dépôts de garantie pour des contrats de location. 14. Des actions détenues dans d'autres sociétés. 15. Des équipements informatiques comme des ordinateurs et serveurs.",Provision pour créances douteuses,1030,Ce compte enregistre les provisions pour créances douteuses.
+Actif,"L'actif représente tout ce que possède une entreprise et qui a de la valeur. Cela inclut les biens, les droits et les ressources qui peuvent générer des bénéfices.
+
+1. Un bâtiment utilisé par l'entreprise. 2. Des machines pour la production. 3. Un véhicule de livraison. 4. Des stocks de marchandises. 5. Des comptes bancaires avec des fonds. 6. Des brevets ou des droits d'auteur. 7. Des créances clients (argent à recevoir). 8. Des équipements informatiques. 9. Des terrains. 10. Des logiciels d'entreprise. 11. Des investissements dans d'autres entreprises. 12. Des meubles et des agencements de bureau. 13. Des fournitures de bureau en stock. 14. Des contrats à long terme avec des clients. 15. Des actifs immatériels, comme la réputation de la marque.",Stocks - matières premières,1040,Ce compte enregistre la valeur des matières premières détenues par l'entreprise.
+Actif,"Un actif est une ressource possédée par une entreprise qui a de la valeur et peut générer des bénéfices futurs.
+
+1. Une machine utilisée pour produire des biens. 2. Un bâtiment où l'entreprise opère. 3. Des stocks de marchandises en vente. 4. Des ordinateurs et équipements informatiques. 5. Des brevets qui protègent des inventions. 6. Des véhicules utilisés pour les livraisons. 7. Un logo ou une marque enregistrée. 8. Des investissements dans d'autres entreprises. 9. Des comptes bancaires avec des liquidités. 10. Des créances clients, c'est-à-dire de l'argent à recevoir. 11. Des terrains appartenant à l'entreprise. 12. Des logiciels achetés pour le fonctionnement de l'entreprise. 13. Des meubles de bureau. 14. Des équipements de sécurité. 15. Des contrats à long terme avec des clients.",Stocks - produits en cours,1060,Ce compte enregistre la valeur des produits en cours de fabrication.
+Actif,"Un actif est tout bien ou ressource possédé par une entreprise, qui a de la valeur et peut être utilisé pour générer des revenus.
+
+1. Un bâtiment utilisé comme bureau par l'entreprise. 2. Des machines utilisées pour produire des biens. 3. Un véhicule de livraison appartenant à l'entreprise. 4. Du matériel informatique comme des ordinateurs et des serveurs. 5. Des stocks de produits à vendre. 6. Des brevets ou droits d'auteur que l'entreprise possède. 7. Des terrains et propriétés immobilières. 8. Des investissements dans d'autres entreprises. 9. De l'argent liquide disponible dans les comptes de l'entreprise. 10. Des créances clients, c'est-à-dire des montants dus par les clients. 11. Des logiciels achetés pour les opérations de l'entreprise. 12. Des contrats de location de locaux ou d'équipements. 13. Des œuvres d'art possédées par l'entreprise. 14. Des licences ou certificats nécessaires pour opérer. 15. De l'inventaire de fournitures de bureau.",Stocks - produits finis,1080,Ce compte enregistre la valeur des produits finis destinés à la vente.
+Actif,"Un actif est un bien ou un droit possédé par une entreprise, ayant une valeur économique et pouvant contribuer à générer des revenus.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise. 2. Un véhicule de livraison appartenant à l'entreprise. 3. Un ordinateur utilisé par les employés. 4. Des stocks de marchandises à vendre. 5. Des brevets qui protègent des inventions. 6. Des investissements en actions d'autres entreprises. 7. Des comptes clients, représentant de l'argent à recevoir. 8. Un terrain acheté pour construire un nouveau bureau. 9. Des logiciels achetés pour améliorer la productivité. 10. Des meubles de bureau comme des bureaux et des chaises. 11. De l'équipement industriel utilisé pour la fabrication. 12. Des droits d'auteur sur des œuvres créatives. 13. Des dépôts bancaires qui peuvent être utilisés à tout moment. 14. Des actions de société qui peuvent être revendues. 15. Une franchise accordée pour vendre des produits ou services.",Avances sur commissions,1100,Ce compte enregistre les avances accordées sur commissions.
+Actif,"Les actifs sont les biens et ressources que possède une entreprise, qui peuvent être utilisés pour générer des revenus.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise.
+2. Des machines de production dans une usine.
+3. Des véhicules utilisés pour la livraison de produits.
+4. Des ordinateurs et équipements de bureau.
+5. Un stock de marchandises à vendre.
+6. Des brevets et droits de propriété intellectuelle.
+7. Des investissements dans d'autres entreprises.
+8. Des terrains détenus par l'entreprise.
+9. Des meubles et agencements dans un bureau.
+10. Des logiciels achetés pour le fonctionnement de l'entreprise.
+11. Des comptes clients représentant des ventes à crédit.
+12. Des liquidités disponibles sur le compte bancaire de l'entreprise.
+13. Des matières premières pour la production.
+14. Des œuvres d'art ou objets de valeur appartenant à l'entreprise.
+15. Des dépôts de garantie pour des contrats ou locations.",Avances aux employés,1120,Ce compte enregistre les avances de fonds accordées aux employés.
+Actif,"Un actif est une ressource détenue par une entreprise qui a de la valeur et peut générer des bénéfices futurs. Les actifs peuvent être tangibles (physiques) ou intangibles (non physiques).
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise.
+2. Des machines de production dans une usine.
+3. Des véhicules de livraison pour transporter des marchandises.
+4. Un ordinateur utilisé par un employé pour ses tâches.
+5. Des stocks de produits prêts à être vendus.
+6. Des brevets qui protègent des inventions.
+7. Des logiciels utilisés dans les opérations de l'entreprise.
+8. De l'argent en banque pour financer les activités.
+9. Un terrain où l'entreprise projette de construire un nouveau bâtiment.
+10. Des créances, c'est-à-dire des montants dus par des clients.
+11. Des investissements dans d'autres entreprises.
+12. Des meubles de bureau comme des tables et des chaises.
+13. Des équipements informatiques tels que des serveurs.
+14. Un portefeuille d'actions détenu par l'entreprise.
+15. Des droits d'auteur sur des œuvres créatives produites par l'entreprise.",Avances aux actionnaires,1140,Ce compte enregistre les avances de fonds accordées aux actionnaires.
+Actif,"Un actif est un bien ou un droit que possède une entreprise, qui peut générer des bénéfices futurs.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise. 2. Des machines pour la production de biens. 3. Des véhicules pour la livraison. 4. Des stocks de produits à vendre. 5. Des brevets qui protègent des inventions. 6. Des meubles de bureau comme des chaises et des tables. 7. Des ordinateurs et équipements technologiques. 8. Des créances, c'est-à-dire des sommes dues par des clients. 9. Des investissements dans d'autres entreprises. 10. Des terrains détenus pour bâtir ou vendre. 11. Des marques déposées qui apportent une valeur à l'entreprise. 12. Des logiciels achetés pour améliorer les opérations. 13. Des œuvres d'art ou objets de collection appartenant à l'entreprise. 14. Des dépôts bancaires qui peuvent être utilisés à tout moment. 15. Des contrats d'assurance qui garantissent des actifs.",Subventions à recevoir,1150,Ce compte enregistre les subventions dues à l'entreprise.
+Actif,"L'actif désigne tous les biens et ressources possédés par une entreprise, qui ont une valeur économique et peuvent générer des bénéfices futurs.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise.
+2. Des machines et équipements nécessaires à la production.
+3. Des véhicules pour la livraison des produits.
+4. Des stocks de marchandises en attente de vente.
+5. Un compte bancaire contenant des fonds disponibles.
+6. Des créances clients, c'est-à-dire de l'argent que les clients doivent à l'entreprise.
+7. Des brevets ou droits d'auteur qui génèrent des revenus. 
+8. Des investissements dans d'autres entreprises.
+9. Des terrains possédés par l'entreprise.
+10. Des logiciels utilisés pour la gestion des opérations. 
+11. Des meubles de bureau et matériel informatique. 
+12. Des parts de marché que l'entreprise contrôle. 
+13. Des contrats de location à long terme. 
+14. Des prépaiements pour des services futurs. 
+15. Des œuvres d'art ou objets de valeur détenus par l'entreprise.",Frais payés d’avance - taxes,1160,Ce compte enregistre les frais payés d’avance liés aux taxes.
+Actif,"Un actif est un bien ou un droit possédé par une entreprise, qui a de la valeur et peut générer des bénéfices futurs.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise.
+2. Des machines qui produisent des biens.
+3. Des véhicules pour la livraison.
+4. Des ordinateurs et équipements technologiques.
+5. Des stocks de marchandises à vendre.
+6. De l'argent liquide dans un compte bancaire.
+7. Des créances clients, c'est-à-dire de l'argent dû par des clients.
+8. Des brevets sur une invention.
+9. Des investissements dans d'autres entreprises.
+10. Des terrains achetés pour construire un nouveau bureau.
+11. Des meubles et fournitures de bureau.
+12. Des licences de logiciels.
+13. Des actions détenues dans une autre société.
+14. Des comptes de dépôt à terme.
+15. Des droits d'auteur sur des œuvres créatives.",Frais payés d’avance - assurances,1165,Ce compte enregistre les frais d’assurance payés d’avance.
+Actif,"L'actif représente tout ce que possède une entreprise, incluant les biens matériels et immatériels qui ont de la valeur et qui peuvent être utilisés pour générer des revenus.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise. 2. Des machines et équipements pour la production. 3. Des véhicules pour la livraison. 4. Un terrain acheté pour construire de nouvelles installations. 5. Des stocks de produits destinés à la vente. 6. Des brevets et droits de propriété intellectuelle. 7. Des comptes clients, représentant l'argent dû par les clients. 8. Des investissements dans d'autres entreprises. 9. Du matériel informatique utilisé par les employés. 10. Des logiciels acquis pour améliorer la productivité. 11. Des meubles et aménagements dans les bureaux. 12. Des fonds de caisse pour les opérations quotidiennes. 13. Des œuvres d'art ou objets de valeur détenus par l'entreprise. 14. Des contrats de location pour des biens immobiliers. 15. Des visuels ou marques déposées qui génèrent des revenus.",Frais payés d’avance - publicité,1170,Ce compte enregistre les frais de publicité payés d’avance.
+Actif,"Un actif est tout ce que possède une entreprise et qui a de la valeur, pouvant être utilisé pour générer des revenus ou des bénéfices.
+
+1. Une machine utilisée pour fabriquer des produits. 2. Un bâtiment où l'entreprise exerce son activité. 3. Des véhicules pour la livraison. 4. Du matériel informatique comme des ordinateurs et des serveurs. 5. Des stocks de marchandises à vendre. 6. Des brevets ou des droits d'auteur que l'entreprise détient. 7. Des investissements dans d'autres entreprises. 8. Des comptes bancaires avec des fonds disponibles. 9. Des créances clients, c'est-à-dire de l'argent dû par des clients. 10. Des équipements de bureau comme des meubles et des fournitures. 11. Des terrains appartenant à l'entreprise. 12. Un site web ou une application génératrice de revenus. 13. Des licences ou des autorisations de fonctionnement. 14. Des actions ou obligations détenues. 15. Des ressources humaines, comme des employés qualifiés.",T.P.S. à récupérer,1180,Ce compte enregistre la taxe sur les produits et services récupérable.
+Actif,"Un actif est un bien ou un droit possédé par une entreprise qui a de la valeur et peut être utilisé pour générer des revenus.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise. 2. Des machines pour la production de biens. 3. Des véhicules de livraison. 4. Des ordinateurs et équipements informatiques. 5. Des stocks de produits à vendre. 6. Des brevets ou droits de propriété intellectuelle. 7. Des liquidités en banque. 8. Des comptes clients, représentant l'argent dû par les clients. 9. Des terrains possédés par l'entreprise. 10. Des meubles et agencements dans les bureaux. 11. Des investissements en actions ou obligations. 12. Un logiciel développé pour les besoins de l'entreprise. 13. Des contrats à long terme avec des clients. 14. Des droits d'utilisation de ressources naturelles. 15. Des œuvres d'art exposées dans les locaux de l'entreprise.",T.V.Q. à récupérer,1190,Ce compte enregistre la taxe de vente du Québec récupérable.
+Actif,"Un actif est un bien ou un droit détenu par une entreprise, qui a de la valeur et peut être utilisé pour générer des revenus.
+
+1. Un bâtiment acheté pour les opérations de l'entreprise.
+2. Du matériel informatique utilisé pour le travail quotidien.
+3. Des véhicules pour la livraison des produits.
+4. Des stocks de marchandises destinées à la vente.
+5. Des comptes clients représentant des ventes à crédit.
+6. Des brevets et des marques déposées qui protègent des inventions.
+7. De l'argent liquide disponible dans la caisse.
+8. Des investissements dans d'autres entreprises.
+9. Des terrains possédés pour la construction future.
+10. Des logiciels achetés pour améliorer la productivité.
+11. Des meubles de bureau utilisés dans les locaux de l'entreprise.
+12. Des créances à recevoir de clients pour des services rendus.
+13. Des équipements de production utilisés dans une usine.
+14. Des droits d'auteur sur des œuvres créées par l'entreprise.
+15. Des stocks de matières premières nécessaires à la fabrication.",Dépôts,1200,Ce compte enregistre les dépôts effectués par l'entreprise.
+Actif,"Un actif est un bien ou un droit possédé par une entreprise, qui peut générer des bénéfices futurs.
+
+1. Un bâtiment utilisé par l'entreprise pour ses opérations. 2. Des machines pour la production. 3. Un véhicule de livraison. 4. Des ordinateurs et équipements informatiques. 5. Des stocks de produits à vendre. 6. Des brevets ou droits d'auteur. 7. Des investissements en actions d'autres entreprises. 8. Des comptes clients, c'est-à-dire des montants dus par des clients. 9. Des terrains possédés par l'entreprise. 10. Du mobilier de bureau. 11. Des logiciels achetés pour l'exploitation de l'entreprise. 12. Des liquidités disponibles dans la caisse. 13. Des créances fiscales, comme des remboursements d'impôts à recevoir. 14. Des outils et équipements de maintenance. 15. Des droits de propriété intellectuelle.",Placements,1250,Ce compte enregistre les placements financiers détenus par l'entreprise.
+Actif,"Les actifs sont des biens ou droits possédés par une entreprise qui ont une valeur économique et peuvent générer des bénéfices. Ils peuvent être tangibles (physiques) ou intangibles (non physiques).
+
+1. Un bâtiment utilisé comme bureau. 2. Des machines utilisées dans la production. 3. Des véhicules de livraison. 4. Du mobilier de bureau. 5. Des stocks de marchandises à vendre. 6. Des brevets pour des inventions. 7. Des logiciels utilisés pour la gestion. 8. Des terrains détenus par l'entreprise. 9. Des comptes bancaires de l'entreprise. 10. Des investissements dans d'autres entreprises. 11. Des créances clients à recevoir. 12. Des licences d'exploitation. 13. Des équipements informatiques. 14. Des œuvres d'art dans des bureaux. 15. Des marques déposées.",Terrain,1400,Ce compte enregistre la valeur des terrains détenus par l'entreprise.
+Actif,"Les actifs sont des ressources détenues par une entreprise qui ont de la valeur et peuvent générer des bénéfices. Ils comprennent des biens matériels et immatériels qui contribuent à l'activité de l'entreprise.
+
+1. Un bâtiment utilisé pour les opérations commerciales.
+2. Des machines utilisées dans une usine pour fabriquer des produits.
+3. Des véhicules utilisés pour la livraison de marchandises.
+4. Du mobilier de bureau dans un espace de travail.
+5. Des ordinateurs et des logiciels nécessaires au fonctionnement de l'entreprise.
+6. Des stocks de produits prêts à être vendus.
+7. Des brevets et des droits d'auteur qui protègent des inventions.
+8. Des comptes bancaires contenant de l'argent.
+9. Des investissements dans d'autres entreprises.
+10. Des terrains possédés par l'entreprise.
+11. Des créances clients, c'est-à-dire de l'argent dû par des clients.
+12. Des licences commerciales qui permettent d'exercer une activité.
+13. Des produits en cours de fabrication dans une usine.
+14. Des contrats à long terme qui garantissent des revenus futurs.
+15. Des œuvres d'art ou des objets de valeur détenus par l'entreprise.",Bâtiment,1405,Ce compte enregistre la valeur des bâtiments détenus par l'entreprise.
+Actif,"Un actif est une ressource possédée par une entreprise, qui a une valeur économique et peut générer des bénéfices futurs.
+
+1. Une machine utilisée pour fabriquer des produits. 2. Un bâtiment où l'entreprise exerce ses activités. 3. Du matériel informatique comme des ordinateurs et des serveurs. 4. Des stocks de marchandises destinées à la vente. 5. Des brevets qui protègent des inventions. 6. Des comptes bancaires contenant de l'argent. 7. Des créances clients, c'est-à-dire des sommes dues par des clients. 8. Des véhicules utilisés pour les livraisons. 9. Des meubles de bureau comme des bureaux et des chaises. 10. Des logiciels achetés pour la gestion de l'entreprise. 11. Des terrains possédés par l'entreprise. 12. Des investissements dans d'autres entreprises. 13. Des droits d'auteur sur des œuvres créatives. 14. Des outils et équipements utilisés dans la production. 15. Des licences d'exploitation pour des produits spécifiques.",Amortissement accumulé - bâtiment,1408,Ce compte enregistre l’amortissement accumulé des bâtiments.
+Actif,"Un actif est une ressource détenue par une entreprise, qui a de la valeur et peut générer des bénéfices futurs.
+
+1. Un bâtiment utilisé pour les opérations commerciales. 2. Des machines et équipements de production. 3. Des véhicules de livraison. 4. Des stocks de marchandises à vendre. 5. De l'argent en banque. 6. Des brevets ou droits de propriété intellectuelle. 7. Des investissements dans d'autres entreprises. 8. Des comptes clients (argent à recevoir). 9. Des terrains possédés par l'entreprise. 10. Des logiciels et systèmes informatiques. 11. Du mobilier de bureau. 12. Des créances clients (factures impayées). 13. Des terrains et bâtiments non utilisés. 14. Des œuvres d'art appartenant à l'entreprise. 15. Des dépôts de garantie pour des locaux ou services.",Machinerie et équipement,1410,Ce compte enregistre la valeur de la machinerie et de l’équipement.
+Actif,"Un actif est un bien ou un droit que possède une entreprise, ayant une valeur économique et pouvant générer des revenus. Les actifs sont essentiels pour le fonctionnement et la croissance d'une entreprise.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise.
+2. Des machines et équipements nécessaires à la production.
+3. Des véhicules pour le transport des marchandises.
+4. Des stocks de produits finis ou de matières premières.
+5. Des brevets ou droits de propriété intellectuelle.
+6. Des comptes bancaires avec des fonds disponibles.
+7. Des créances clients, représentant de l'argent dû à l'entreprise.
+8. Des terrains possédés pour l'expansion future.
+9. Des logiciels achetés pour améliorer l'efficacité opérationnelle.
+10. Des investissements en actions d'autres entreprises.
+11. Des meubles et agencements dans un bureau.
+12. Des licences pour exploiter un produit ou service.
+13. Des produits en cours de fabrication.
+14. Des dépôts de garantie pour des contrats.
+15. Des droits d'auteur sur des œuvres créées par l'entreprise.",Amortissement accumulé - machinerie et équipement,1413,Ce compte enregistre l’amortissement accumulé des équipements.
+Actif,"Un actif est un bien ou un droit possédé par une entreprise, qui a de la valeur et peut être utilisé pour générer des revenus.
+
+1. Un bâtiment utilisé comme bureau.
+2. Des machines pour produire des biens.
+3. Un véhicule de livraison pour les produits.
+4. Des ordinateurs pour le personnel.
+5. Un brevet sur une invention.
+6. Des stocks de marchandises dans un entrepôt.
+7. Des comptes clients, représentant l'argent à recevoir.
+8. De l'argent en banque pour les opérations courantes.
+9. Un terrain où se trouve l'usine.
+10. Des meubles et équipements de bureau.
+11. Des logiciels achetés pour la gestion de l'entreprise.
+12. Des investissements dans d'autres entreprises.
+13. Un fonds de roulement pour les dépenses quotidiennes.
+14. Des licences d'exploitation de produits.
+15. Des œuvres d'art détenues par l'entreprise.",Matériel roulant,1420,Ce compte enregistre la valeur des véhicules et équipements roulants.
+Actif,"Un actif est un bien ou une ressource détenue par une entreprise qui a de la valeur et peut générer des bénéfices futurs.
+
+1. Un immeuble utilisé pour les opérations de l'entreprise. 2. Des machines utilisées pour la production. 3. Du stock de marchandises prêt à être vendu. 4. Un véhicule de livraison appartenant à l'entreprise. 5. Des brevets ou des droits d'auteur. 6. Des investissements en actions d'autres entreprises. 7. Un ordinateur ou un équipement informatique. 8. Des créances clients, c'est-à-dire des sommes dues par des clients. 9. Des liquidités en banque. 10. Des terrains possédés par l'entreprise. 11. Des meubles de bureau. 12. Un logiciel utilisé pour la gestion des ventes. 13. Des licences d'exploitation. 14. Des dépôts de garantie pour des contrats. 15. Des œuvres d'art détenues par l'entreprise comme investissement.",Amortissement accumulé - matériel roulant,1423,Ce compte enregistre l’amortissement accumulé des équipements roulants.
+Actif,"Les actifs sont des biens et droits possédés par une entreprise, qui ont de la valeur et peuvent être utilisés pour générer des bénéfices.
+
+1. Un bâtiment utilisé comme bureau par l'entreprise.
+2. Des machines utilisées pour produire des biens.
+3. Des véhicules pour la livraison des produits.
+4. Un brevet qui protège une invention.
+5. Des stocks de produits prêts à être vendus.
+6. Des comptes bancaires contenant de l'argent.
+7. Des créances clients, c'est-à-dire des montants dus par des clients.
+8. Des terrains achetés pour développer des projets futurs.
+9. Un logiciel acheté pour gérer les opérations de l'entreprise.
+10. Des meubles et équipements de bureau.
+11. Des investissements dans d'autres entreprises.
+12. Des droits d'auteur sur des œuvres créatives.
+13. Des équipements informatiques comme des ordinateurs et serveurs.
+14. Des licences nécessaires pour exercer certaines activités.
+15. Des œuvres d'art détenues par l'entreprise.",Mobilier et équipement de bureau,1430,Ce compte enregistre la valeur des meubles et équipements de bureau.
+Actif,"Un actif est un bien ou une ressource possédée par une entreprise qui a de la valeur et peut générer des bénéfices futurs.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise. 2. Des machines et équipements pour la production. 3. Des stocks de produits destinés à la vente. 4. Un véhicule utilisé pour les livraisons. 5. Des brevets qui protègent des inventions. 6. Des terrains possédés par l'entreprise. 7. Des meubles et agencements dans les bureaux. 8. Des logiciels utilisés pour la gestion. 9. Des comptes bancaires avec des fonds disponibles. 10. Des investissements dans d'autres entreprises. 11. Des créances clients qui doivent être réglées. 12. Des droits d'auteur sur des œuvres créatives. 13. Des matériaux en cours de fabrication. 14. Des licences de fonctionnement ou d'exploitation. 15. Des dépôts de garantie pour des contrats.",Amortissement accumulé - mobilier et équipement de bureau,1433,Ce compte enregistre l’amortissement accumulé du mobilier et équipement de bureau.
+Actif,"Un actif est un bien ou un droit possédé par une entreprise, ayant une valeur économique et pouvant générer des bénéfices futurs.
+
+1. Une machine utilisée pour la production. 2. Un bâtiment où l'entreprise opère. 3. Des véhicules pour le transport. 4. Des ordinateurs pour le bureau. 5. Des stocks de produits à vendre. 6. Des brevets pour des inventions. 7. Des créances clients (argent dû par les clients). 8. Des investissements financiers dans d'autres entreprises. 9. Des terrains possédés par l'entreprise. 10. Du matériel de bureau, comme des meubles et des fournitures. 11. Des logiciels achetés pour gérer l'entreprise. 12. Des droits d'auteur sur des œuvres créatives. 13. Des dépôts bancaires. 14. Des licences permettant l'exploitation de certaines activités. 15. Des équipements spécialisés pour des tâches spécifiques.",Entrepôt,1440,Ce compte enregistre la valeur des entrepôts détenus par l'entreprise.
+Actif,"Un actif est un bien ou un droit détenu par une entreprise qui a de la valeur et peut générer des bénéfices futurs.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise. 2. Des machines et équipements de production. 3. Des véhicules pour le transport de marchandises. 4. Des stocks de produits à vendre. 5. Des brevets qui protègent des inventions. 6. Des créances clients, c'est-à-dire de l'argent que les clients doivent à l'entreprise. 7. Des liquidités en banque, comme de l'argent sur un compte courant. 8. Des logiciels achetés pour faciliter les opérations. 9. Du mobilier de bureau comme des bureaux et des chaises. 10. Des terrains possédés par l'entreprise. 11. Des investissements dans d'autres entreprises. 12. Des droits d'auteur sur des œuvres créatives. 13. Des contrats de location à long terme. 14. Des frais payés d'avance pour des services futurs. 15. Des équipements informatiques comme des ordinateurs et serveurs.",Amortissement accumulé - entrepôt,1443,Ce compte enregistre l’amortissement accumulé des entrepôts.
+Actif,"Les actifs sont des biens et droits possédés par une entreprise, pouvant être utilisés pour générer des revenus.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise. 2. Des machines utilisées pour la production. 3. Du stock de marchandises prêt à être vendu. 4. Des véhicules pour la livraison des produits. 5. Des brevets qui protègent des inventions. 6. Des comptes bancaires contenant des liquidités. 7. Des meubles et équipements de bureau. 8. Des logiciels nécessaires au fonctionnement de l'entreprise. 9. Des investissements dans d'autres entreprises. 10. Des terrains détenus pour la construction future. 11. Des créances clients, c'est-à-dire des factures à recevoir. 12. Des droits d'auteur pour des œuvres protégées. 13. Des licences permettant d'exploiter un produit. 14. Des équipements informatiques pour le personnel. 15. Des stocks de matières premières utilisées dans la production.",Équipement informatique,1445,Ce compte enregistre la valeur des équipements informatiques.
+Actif,"Les actifs sont des ressources possédées par une entreprise, qui ont une valeur économique et peuvent générer des bénéfices.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise. 2. Des machines pour la production de biens. 3. Des véhicules pour le transport des marchandises. 4. Des ordinateurs utilisés par les employés. 5. Des stocks de produits prêts à être vendus. 6. Des brevets qui protègent des inventions. 7. Des terrains appartenant à l'entreprise. 8. Des investissements financiers dans d'autres sociétés. 9. De l'argent en caisse ou sur un compte bancaire. 10. Des créances clients, représentant des ventes à crédit. 11. Des logiciels achetés pour améliorer l'efficacité. 12. Des meubles et équipements de bureau. 13. Des matériaux utilisés pour la fabrication. 14. Des licences d'exploitation pour des franchises. 15. Des droits d'auteur sur des œuvres créatives.",Amortissement accumulé - équipement informatique,1448,Ce compte enregistre l’amortissement accumulé des équipements informatiques.
+Actif,"Les actifs sont des biens ou des ressources possédés par une entreprise, qui ont de la valeur et peuvent générer des bénéfices futurs.
+
+1. Un bâtiment utilisé pour les opérations de l'entreprise.
+2. Des machines utilisées pour la production de biens.
+3. Un véhicule de livraison appartenant à l'entreprise.
+4. Des stocks de marchandises disponibles à la vente.
+5. Des brevets et droits de propriété intellectuelle.
+6. Des comptes bancaires contenant des fonds.
+7. Des investissements en actions d'autres entreprises.
+8. Des logiciels ou systèmes informatiques utilisés par l'entreprise.
+9. Du matériel de bureau comme des ordinateurs et des imprimantes.
+10. Des créances clients, c'est-à-dire des paiements dus à l'entreprise.
+11. Des terrains possédés par l'entreprise pour son utilisation.
+12. Des équipements de sécurité pour protéger les locaux.
+13. Des meubles de bureau comme des chaises et des tables.
+14. Des contrats ou accords commerciaux en cours de validité.
+15. Des droits d'utilisation de terrains ou bâtiments en location.",Logiciels,1450,Ce compte enregistre la valeur des logiciels détenus par l'entreprise.
+Actif,"Un actif est un bien ou un droit que possède une entreprise et qui peut être utilisé pour générer des bénéfices. Ces éléments ont de la valeur et peuvent être convertis en liquidités ou utilisés pour les opérations de l'entreprise.
+
+1. Un bâtiment utilisé comme bureau. 2. Des machines industrielles pour la production. 3. Un véhicule de livraison. 4. Des stocks de marchandises à vendre. 5. Des ordinateurs et équipements informatiques. 6. Des brevets et droits d'auteur. 7. Un terrain appartenant à l'entreprise. 8. Des créances clients, c'est-à-dire des montants dus par des clients. 9. Des investissements en actions d'autres entreprises. 10. Des logiciels achetés pour améliorer la productivité. 11. Des meubles de bureau. 12. Un compte bancaire avec des fonds. 13. Des actions de sociétés cotées. 14. Un droit de location sur un bien immobilier. 15. Des contrats à long terme avec des clients.",Amortissement accumulé - logiciels,1453,Ce compte enregistre l’amortissement accumulé des logiciels.
+Passif,"Le passif désigne l'ensemble des dettes et obligations financières d'une entreprise envers des tiers.
+
+1. Un prêt bancaire à rembourser. 2. Des factures à payer pour des fournitures de bureau. 3. Des salaires dus aux employés. 4. Des impôts à régler au gouvernement. 5. Les loyers dus pour les locaux de l'entreprise. 6. Des dettes fournisseurs pour des marchandises non encore réglées. 7. Une obligation d'emprunt obligataire. 8. Des avances reçues de clients pour des services futurs. 9. Des sommes dues pour des services de publicité. 10. Des charges à payer pour des services publics. 11. Des accords de crédit avec des partenaires commerciaux. 12. Des dettes fiscales pour des taxes sur les ventes. 13. Des engagements de retraite pour les employés. 14. Des garanties de remboursement sur des produits vendus. 15. Des pénalités de retard à régler pour des paiements non effectués.",Emprunt de banque,2000,Ce compte enregistre les emprunts contractés auprès des banques.
+Passif,"Le passif désigne les dettes et obligations financières d'une entreprise, représentant ce qu'elle doit à des tiers.
+
+1. Un prêt bancaire que l'entreprise doit rembourser. 2. Les factures impayées pour des services fournis. 3. Les salaires dus aux employés à la fin du mois. 4. Les impôts à payer au gouvernement. 5. Les dettes envers des fournisseurs pour des marchandises non réglées. 6. Les remboursements d'emprunts obligataires. 7. Les loyers dus pour des locaux commerciaux. 8. Les avances reçues de clients pour des services non encore rendus. 9. Les frais médicaux à payer pour des employés. 10. Les charges sociales dues aux organismes de sécurité sociale. 11. Les dettes de carte de crédit utilisées pour des achats d'entreprise. 12. Les assurances à payer pour des polices en cours. 13. Les engagements de retraite pour les employés. 14. Les dividendes à verser aux actionnaires. 15. Les litiges en cours qui pourraient entraîner des paiements.",Comptes à payer,2020,Ce compte enregistre les dettes de l'entreprise envers ses fournisseurs.
+Passif,"Le passif désigne l'ensemble des dettes et obligations financières d'une entreprise, représentant ce qu'elle doit à des tiers.
+
+1. Un prêt bancaire que l'entreprise a contracté pour financer ses opérations. 2. Une facture impayée pour des services fournis par un fournisseur. 3. Des salaires dus aux employés à la fin du mois. 4. Des impôts à payer au gouvernement. 5. Un bail à payer pour des locaux commerciaux. 6. Des obligations obligataires que l'entreprise a émises pour lever des fonds. 7. Un crédit fournisseur pour des marchandises reçues mais non encore réglées. 8. Des dettes de carte de crédit utilisées pour des achats d'entreprise. 9. Des acomptes reçus de clients pour des services futurs. 10. Un prêt à taux d'intérêt à rembourser dans les années à venir. 11. Des obligations de retraite que l'entreprise doit à ses employés. 12. Des dettes liées à des projets d'investissement en cours. 13. Des charges à payer pour des services de publicité. 14. Un contrat de leasing pour des équipements de production. 15. Des frais juridiques dus à des litiges en cours.",Salaires à payer,2040,Ce compte enregistre les salaires dus aux employés mais non encore versés.
+Passif,"Le passif désigne l'ensemble des dettes et obligations financières d'une entreprise envers des tiers.
+
+1. Un prêt bancaire contracté pour financer des équipements. 2. Les factures à payer aux fournisseurs pour des marchandises achetées. 3. Les salaires dus aux employés à la fin du mois. 4. Les impôts à payer à l'État pour l'année en cours. 5. Un crédit-bail pour des machines industrielles. 6. Les emprunts obligataires émis pour lever des fonds. 7. Les dépôts reçus des clients pour des services futurs. 8. Les charges à payer, comme les loyers en attente. 9. Les engagements financiers à long terme, comme des contrats de service. 10. Les dettes fiscales résultant de l'impôt sur les sociétés. 11. Les provisions pour risques, comme les litiges en cours. 12. Les crédits fournisseurs pour des achats à crédit. 13. Les avances reçues de clients pour des produits non livrés. 14. Les obligations de remboursement d'un prêt à long terme. 15. Les dettes d'exploitation, comme les frais de fonctionnement non réglés.",Commissions à payer,2060,Ce compte enregistre les commissions dues aux agents commerciaux.
+Passif,"Le passif d'une entreprise désigne l'ensemble de ses obligations financières et de ses dettes.
+
+1. Un prêt bancaire que l'entreprise doit rembourser. 2. Des factures d'électricité impayées. 3. Un crédit fournisseur pour des marchandises achetées. 4. Des salaires dus aux employés. 5. Des impôts à payer au gouvernement. 6. Un emprunt obligataire. 7. Des loyers dus pour des locaux commerciaux. 8. Des avances reçues de clients pour des services futurs. 9. Des provisions pour litiges à régler. 10. Des dettes liées à des achats de matériel. 11. Des charges sociales à verser. 12. Des frais de marketing non réglés. 13. Des remboursements de prêts auprès d'entreprises affiliées. 14. Des obligations de retraite des employés. 15. Des dettes envers des partenaires commerciaux.",Impôt fédéral sur salaires à payer,2100,Ce compte enregistre les impôts fédéraux sur les salaires à payer.
+Passif,"Le passif désigne l'ensemble des dettes et obligations financières d'une entreprise envers des tiers.
+
+1. Un prêt bancaire que l'entreprise doit rembourser. 2. Les factures impayées des fournisseurs. 3. Les salaires dus aux employés à la fin du mois. 4. Les impôts à payer au gouvernement. 5. Les obligations émises par l'entreprise pour lever des fonds. 6. Les loyers dus pour un local commercial. 7. Les remboursements d'un crédit à la consommation par l'entreprise. 8. Les charges à payer pour des services non encore réglés. 9. Les dettes envers des partenaires commerciaux. 10. Les avances reçues de clients pour des produits non livrés. 11. Les frais de publicité non encore réglés. 12. Les dettes fiscales à payer pour l'année en cours. 13. Les obligations de pension envers les employés. 14. Les prêts d'honneur à rembourser. 15. Les dettes contractées pour l'achat d'équipements.",Impôt provincial sur salaires à payer,2120,Ce compte enregistre les impôts provinciaux sur les salaires à payer.
+Passif,"Le passif désigne les obligations financières et les dettes d'une entreprise envers des tiers.
+
+1. Un prêt bancaire que l'entreprise doit rembourser. 2. Des factures impayées pour des services fournis. 3. Les salaires dus aux employés à la fin du mois. 4. Des obligations émises par l'entreprise pour lever des fonds. 5. Des crédits fournisseurs pour des marchandises achetées à crédit. 6. Les impôts à payer au gouvernement. 7. Les loyers dus pour un local commercial. 8. Des prêts hypothécaires sur des biens immobiliers. 9. Des dettes envers des partenaires pour des projets communs. 10. Les frais juridiques à régler après un procès. 11. Des charges sociales à payer pour les employés. 12. Les remboursements d'une avance reçue d'un client. 13. Les dettes d'une filiale envers sa société mère. 14. Les paiements dus pour des services de maintenance. 15. Des engagements de paiement pour des contrats à long terme.",TPS à payer,2260,Ce compte enregistre la taxe sur les produits et services à payer.
+Passif,"Le passif désigne les obligations financières et les dettes qu'une entreprise doit rembourser.
+
+1. Un prêt bancaire que l'entreprise doit rembourser. 2. Les factures impayées des fournisseurs. 3. Les salaires dus aux employés à la fin du mois. 4. Les loyers dus pour un local commercial. 5. Les impôts à payer au gouvernement. 6. Les dettes de carte de crédit professionnelles. 7. Les obligations à long terme émises par l'entreprise. 8. Les crédits d'impôt non encore remboursés. 9. Les contrats de leasing pour des équipements. 10. Les avances reçues des clients pour des services futurs. 11. Les coûts d'entretien non réglés pour des machines. 12. Les provisions pour litiges en cours. 13. Les dettes envers des partenaires commerciaux. 14. Les paiements dus pour des achats d'inventaire. 15. Les engagements de retraite pour les employés.",TVQ à payer,2280,Ce compte enregistre la taxe de vente du Québec à payer.
+Passif,"Le passif désigne l'ensemble des dettes et obligations financières d'une entreprise envers des tiers.
+
+1. Un prêt bancaire que l'entreprise doit rembourser. 2. Des factures d'électricité non encore réglées. 3. Des salaires dus aux employés pour le mois en cours. 4. Un crédit fournisseur pour des marchandises achetées. 5. Des impôts à payer à l'État. 6. Des loyers dus pour un local commercial. 7. Des emprunts obligataires que l'entreprise a émis. 8. Des provisions pour litiges en cours. 9. Des intérêts à payer sur un emprunt. 10. Des paiements différés sur des équipements achetés. 11. Des dettes fiscales accumulées. 12. Des remboursements de prêts à des partenaires commerciaux. 13. Des obligations de maintenance sur des équipements loués. 14. Des engagements de retraite pour les employés. 15. Des avances reçues de clients pour des services non encore rendus.",Dépôts de clients,2300,Ce compte enregistre les dépôts effectués par les clients pour des services futurs.
+Passif,"Le passif désigne l'ensemble des dettes et obligations financières qu'une entreprise doit rembourser.
+
+1. Un prêt bancaire de 10 000 € à rembourser dans 5 ans.
+2. Des factures impayées de fournisseurs pour un montant de 2 000 €.
+3. Un crédit-bail pour des équipements d'une valeur de 15 000 €.
+4. Des salaires dus aux employés à la fin du mois.
+5. Des impôts à payer au gouvernement de 3 000 €.
+6. Un emprunt obligataire de 50 000 € souscrit par l'entreprise.
+7. Des charges sociales à régler pour le personnel.
+8. Un découvert bancaire de 1 500 €.
+9. Des prêts d'honneur à rembourser à des organismes de soutien.
+10. Une dette envers un partenaire commercial pour des services rendus.
+11. Des remboursements de prêts étudiants pour les employés.
+12. Des avances reçues de clients pour des produits non encore livrés.
+13. Des obligations de paiement liées à des contrats de maintenance.
+14. Des contributions à des régimes de retraite à verser.
+15. Des loyers dus pour un local commercial.",Hypothèque à payer,2500,Ce compte enregistre les hypothèques souscrites par l'entreprise.
+Passif,"Le passif désigne l'ensemble des obligations et des dettes qu'une entreprise doit rembourser à des tiers.
+
+1. Un prêt bancaire que l'entreprise doit rembourser. 2. Des factures à payer pour des fournitures reçues. 3. Des salaires dus aux employés à la fin du mois. 4. Des impôts à régler auprès de l'État. 5. Des dettes envers des fournisseurs pour des marchandises. 6. Des obligations d'emprunt à rembourser aux investisseurs. 7. Des loyers dus pour un local commercial. 8. Des charges sociales à payer pour les employés. 9. Des crédits fournisseurs pour des achats à tempérament. 10. Des sommes dues pour des services de consultants. 11. Des engagements de paiement pour des contrats de sous-traitance. 12. Des dividendes à verser aux actionnaires. 13. Des intérêts à payer sur un emprunt. 14. Des provisions pour risques et charges. 15. Des pénalités éventuelles à payer pour non-respect de contrats.",Liens sur machinerie,2550,Ce compte enregistre les prêts garantis par des équipements de machinerie.
+Passif,"Le passif désigne l'ensemble des dettes et obligations financières d'une entreprise envers des tiers.
+
+1. Un emprunt bancaire à rembourser dans les cinq prochaines années. 2. Des factures impayées pour des services de nettoyage. 3. Un prêt accordé par un fournisseur pour l'achat de matériel. 4. Des salaires dus aux employés à la fin du mois. 5. Des impôts à payer à l'État. 6. Un crédit-bail pour des équipements de bureau. 7. Des avances reçues de clients pour des services futurs. 8. Des dettes commerciales envers d'autres entreprises. 9. Des obligations émises pour financer de nouveaux projets. 10. Un découvert bancaire utilisé pour gérer les flux de trésorerie. 11. Des prêts étudiants à rembourser par un employé de l'entreprise. 12. Des charges à payer pour des services publics comme l'électricité. 13. Des primes de fin d'année dues aux employés. 14. Des loyers dus pour des locaux commerciaux. 15. Des créances fiscales à rembourser pour des aides gouvernementales.",Liens sur matériel roulant,2570,Ce compte enregistre les prêts garantis par des véhicules de l'entreprise.
+Passif,"Le passif désigne les obligations financières et les dettes qu'une entreprise doit rembourser. Cela inclut tout ce qu'elle doit à d'autres, comme des prêts, des factures ou des salaires non payés.
+
+1. Un prêt bancaire que l'entreprise doit rembourser. 2. Des factures impayées pour des services reçus. 3. Les salaires dus aux employés à la fin du mois. 4. Une hypothèque sur un bâtiment appartenant à l'entreprise. 5. Les dettes fournisseurs pour des marchandises achetées à crédit. 6. Les impôts à payer au gouvernement. 7. Les obligations émises par l'entreprise pour lever des fonds. 8. Les arrhes perçues d'un client pour un service non encore réalisé. 9. Les contrats de location à long terme que l'entreprise doit respecter. 10. Les frais de litige ou d'arbitrage à régler. 11. Les remboursements de prêts à des associés ou partenaires. 12. Les indemnités de départ à verser aux employés. 13. Les dettes envers des organismes de sécurité sociale. 14. Les paiements dus pour des services de publicité non réglés. 15. Les avances reçues de clients pour des projets futurs.",Capital - actions ordinaires,2900,Ce compte enregistre la valeur des actions ordinaires émises par l'entreprise.
+Passif,"Le passif désigne l'ensemble des obligations financières et des dettes qu'une entreprise doit rembourser.
+
+1. Un prêt bancaire à rembourser dans les cinq prochaines années.
+2. Les factures impayées pour des services de communication.
+3. Un emprunt obligataire émis pour financer un projet.
+4. Les salaires dus aux employés à la fin du mois.
+5. Les taxes à payer à l'État pour l'année fiscale en cours.
+6. Les loyers dus pour un local commercial.
+7. Les dettes fournisseurs pour des marchandises achetées à crédit.
+8. Les charges sociales à verser aux organismes sociaux.
+9. Un crédit-bail pour du matériel informatique.
+10. Les acomptes reçus sur des ventes futures à livrer.
+11. Les provisions pour litiges potentiels.
+12. Les engagements de retraite pour les employés.
+13. Les montants dus sur des cartes de crédit d’entreprise.
+14. Les dettes fiscales pour des impôts sur le revenu.
+15. Une avance de fonds reçue pour un projet à réaliser.",Capital - actions privilégiées,2920,Ce compte enregistre la valeur des actions privilégiées émises par l'entreprise.
+Passif,"Le passif désigne l'ensemble des dettes et obligations financières d'une entreprise, représentant ce qu'elle doit à d'autres.
+
+1. Un prêt bancaire que l'entreprise doit rembourser. 2. Les factures impayées aux fournisseurs. 3. Les salaires dus aux employés à la fin du mois. 4. Les impôts à payer au gouvernement. 5. Les loyers dus pour l'utilisation d'un local. 6. Les obligations de remboursement d'un emprunt obligataire. 7. Les frais de services publics non réglés. 8. Les avances reçues des clients pour des services futurs. 9. Les dettes envers les partenaires commerciaux. 10. Les crédits fournisseurs pour des marchandises non payées. 11. Les provisions pour litiges en cours. 12. Les charges à payer pour des travaux de rénovation. 13. Les dettes fiscales accumulées. 14. Les engagements de retraite pour les employés. 15. Les prêts de sociétaires dans une coopérative.",Surplus d’apport,2950,Ce compte enregistre les apports des actionnaires excédant la valeur nominale des actions.
+Passif,"Le passif désigne l'ensemble des dettes et obligations financières d'une entreprise, représentant ce qu'elle doit à des tiers.
+
+1. Un prêt bancaire à rembourser. 2. Des factures impayées pour des services reçus. 3. Des salaires dus aux employés à la fin du mois. 4. Des impôts à payer au gouvernement. 5. Des crédits fournisseurs pour des marchandises achetées à crédit. 6. Des obligations émises pour lever des fonds. 7. Des loyers dus pour un local commercial. 8. Des emprunts obligataires à rembourser. 9. Des provisions pour litiges en cours. 10. Des charges à payer pour des services non encore facturés. 11. Des dettes envers des partenaires commerciaux. 12. Des remboursements d'avance reçue de clients. 13. Des engagements de pension pour les employés. 14. Des dettes liées à des contrats de leasing. 15. Des frais de publicité à régler.",Bénéfices non répartis,2970,Ce compte enregistre les bénéfices accumulés non distribués aux actionnaires.
+Ventes,"Les ventes désignent l'argent que l'entreprise gagne en échange de ses biens ou services.
+
+1. Une boulangerie vend des baguettes et perçoit de l'argent des clients. 2. Un magasin de vêtements réalise des ventes en proposant des robes et des pantalons. 3. Un prestataire de services de nettoyage facture ses clients pour les services rendus. 4. Une librairie génère des revenus en vendant des livres. 5. Un restaurant reçoit des paiements pour les repas servis. 6. Une entreprise de télécommunications vend des forfaits mobiles. 7. Un fabricant de meubles réalise des ventes de canapés et de tables. 8. Un site e-commerce vend des produits électroniques en ligne. 9. Un artiste vend ses œuvres d'art dans une galerie. 10. Une compagnie aérienne perçoit des fonds pour les billets d'avion. 11. Un salon de coiffure facture ses clients pour les coupes de cheveux. 12. Un service de livraison de repas gagne de l'argent en livrant des plats. 13. Une entreprise de jardinage vend des services d'entretien de jardins. 14. Un photographe propose des séances photo payantes. 15. Un service de streaming facture un abonnement mensuel pour accéder à ses contenus.",Vente de produits finis,3000,Ce compte enregistre les revenus générés par la vente de produits finis fabriqués ou achetés par l'entreprise.
+Ventes,"Les ventes désignent les revenus obtenus par une entreprise grâce à la commercialisation de ses biens et services.
+
+1. Une librairie vend des livres et génère des ventes. 2. Un restaurant facture des repas à ses clients. 3. Une boutique de vêtements réalise des ventes en vendant des habits. 4. Un concessionnaire automobile vend des voitures et enregistre des revenus. 5. Une entreprise de logiciels facture ses produits à des utilisateurs. 6. Un salon de coiffure reçoit des paiements pour des coupes de cheveux. 7. Une salle de cinéma vend des billets pour des projections de films. 8. Une agence de voyages propose des séjours et perçoit des paiements. 9. Un supermarché effectue des ventes en vendant divers produits alimentaires. 10. Un artisan vend ses créations lors de foires ou en ligne. 11. Une société de nettoyage facture ses services à des clients. 12. Un photographe vend des tirages de ses photos. 13. Une entreprise de jardinage reçoit des paiements pour ses services d'entretien. 14. Un service de livraison de repas facture des frais aux clients. 15. Un gymnase propose des abonnements et enregistre des ventes.",Vente de services,3010,Ce compte enregistre les revenus générés par la prestation de services fournis par l'entreprise.
+Ventes,"Les ventes désignent les revenus que génère une entreprise en échange de biens ou de services qu'elle propose.
+
+1. Une boulangerie vend des baguettes, ce qui lui rapporte de l'argent. 2. Un magasin de vêtements vend des robes et des pantalons. 3. Un prestataire de services informatiques facture des heures de travail. 4. Un restaurant encaisse des paiements pour des repas servis. 5. Une librairie vend des livres et des magazines. 6. Un concessionnaire automobile vend des voitures neuves et d'occasion. 7. Une entreprise de construction reçoit des paiements pour des projets réalisés. 8. Une salle de cinéma vend des billets pour des projections. 9. Un photographe facture des séances photo. 10. Un producteur de musique vend des albums et des téléchargements. 11. Une école de danse facture des cours de danse. 12. Un artisan vend des meubles faits main sur un marché. 13. Une entreprise de nettoyage facture des services de nettoyage. 14. Un site de commerce en ligne vend des produits divers. 15. Un service de livraison vend des repas à domicile.",Vente de marchandises,3020,Ce compte enregistre les revenus générés par la vente de marchandises achetées et revendues sans transformation.
+Ventes,"Les ventes désignent les revenus obtenus par une entreprise en échange de biens ou de services qu'elle propose.
+
+1. Une librairie vend des livres et enregistre des ventes. 2. Un restaurant génère des ventes en offrant des repas à des clients. 3. Un magasin de vêtements réalise des ventes lorsqu'il vend des vêtements. 4. Une société de logiciels fait des ventes en vendant des licences de son produit. 5. Un service de nettoyage génère des ventes en facturant ses services aux clients. 6. Une entreprise de construction enregistre des ventes en fournissant des services de construction. 7. Un café réalise des ventes en vendant des boissons et des pâtisseries. 8. Une société de livraison enregistre des ventes en proposant ses services de transport. 9. Un producteur de films génère des ventes en vendant des droits de diffusion. 10. Une plateforme de e-commerce enregistre des ventes en vendant des produits en ligne. 11. Un photographe tire des revenus de ses ventes en offrant des séances photo. 12. Un gymnase fait des ventes en proposant des abonnements mensuels à ses membres. 13. Un concessionnaire automobile génère des ventes en vendant des voitures. 14. Un artiste réalise des ventes en vendant ses œuvres d'art. 15. Une agence de voyage enregistre des ventes en proposant des forfaits vacances. 16. Un fleuriste enregistre des ventes en vendant des bouquets. 17. Une compagnie aérienne réalise des ventes en vendant des billets d'avion. 18. Un fabricant de meubles génère des ventes en vendant des meubles aux détaillants. 19. Un service de streaming enregistre des ventes grâce à des abonnements mensuels. 20. Un artisan vend des produits faits main lors de marchés locaux.",Vente d'une immobilisation,3030,Ce compte enregistre les revenus générés par la cession d'immobilisations corporelles et incorporelles.
+Ventes,"Les ventes désignent l'argent gagné par une entreprise grâce à la vente de ses produits ou services.
+
+1. Une librairie vend des livres et enregistre le montant reçu comme ventes. 2. Un restaurant génère des ventes en servant des repas à ses clients. 3. Un magasin de vêtements réalise des ventes lors de l'achat de vêtements par des clients. 4. Une entreprise de logiciels vend des licences et comptabilise ces revenus comme ventes. 5. Un garage automobile effectue des réparations et enregistre les frais comme ventes. 6. Un fleuriste enregistre les ventes lors de la vente de bouquets de fleurs. 7. Un café réalise des ventes en vendant des boissons et des pâtisseries. 8. Une salle de sport comptabilise les abonnements comme ventes. 9. Un cinéma génère des ventes en vendant des billets pour des films. 10. Un service de streaming enregistre les revenus des abonnements comme ventes. 11. Un vendeur en ligne réalise des ventes par le biais de sa boutique sur Internet. 12. Un traiteur compte ses revenus lors de la vente de repas pour des événements. 13. Une entreprise de construction enregistre les paiements reçus pour des projets comme ventes. 14. Un photographe réalise des ventes en vendant ses photos à des clients. 15. Un magasin de meubles comptabilise les ventes lors de la livraison de nouveaux meubles.",Autres gains divers,3040,Ce compte enregistre les gains exceptionnels ou non récurrents liés à des opérations inhabituelles.
+Ventes,"Les ventes sont les revenus obtenus par une entreprise grâce à la vente de ses biens ou services.
+
+1. Une boulangerie vend des pains et des pâtisseries. 2. Un magasin de vêtements réalise des ventes en proposant des vêtements à la clientèle. 3. Un restaurant génère des ventes en servant des repas et des boissons. 4. Une librairie obtient des ventes en vendant des livres. 5. Une entreprise de services informatiques facture des services de développement de logiciels. 6. Un café réalise des ventes en proposant des boissons chaudes et des snacks. 7. Une société de voyage génère des ventes en vendant des forfaits vacances. 8. Un fleuriste obtient des ventes en proposant des arrangements floraux. 9. Une entreprise de construction réalise des ventes en construisant des maisons. 10. Un site de commerce en ligne génère des ventes en vendant divers produits. 11. Un salon de coiffure facture des services de coupe et de coiffage. 12. Une salle de sport obtient des ventes en proposant des abonnements d'adhésion. 13. Une entreprise de nettoyage génère des ventes en offrant des services de nettoyage. 14. Un service de livraison de repas réalise des ventes en livrant des plats cuisinés. 15. Un photographe obtient des ventes en vendant des séances photo.",Revenus de location,3050,Ce compte enregistre les revenus générés par la location d'équipements ou d'immeubles appartenant à l'entreprise.
+Ventes,"Les ventes désignent les revenus obtenus par une entreprise grâce à la vente de ses produits ou services.
+
+1. Un magasin de vêtements vend des robes, générant des revenus. 2. Un café vend des boissons et des pâtisseries, ce qui lui rapporte de l'argent. 3. Une entreprise de logiciels vend une application, créant ainsi des revenus. 4. Un restaurant vend des repas, augmentant ses profits. 5. Une librairie vend des livres, générant des ventes. 6. Un constructeur automobile vend des voitures, ce qui contribue à ses revenus. 7. Une société de nettoyage facture des services, obtenant des revenus. 8. Un photographe vend des séances photo, générant des ventes. 9. Une plateforme en ligne vend des abonnements, augmentant ses revenus. 10. Un producteur de musique vend des albums, générant des bénéfices. 11. Une entreprise de jardinage vend des plantes, créant des revenus. 12. Un gymnase vend des abonnements mensuels, générant des ventes. 13. Une entreprise de livraison vend des services de transport, augmentant ses revenus. 14. Un artisan vend des objets faits main sur un marché, générant des ventes. 15. Une société de tourisme vend des forfaits de vacances, créant des bénéfices.",Gain de change,3060,Ce compte enregistre les gains réalisés en raison des fluctuations des taux de change sur les transactions en devises étrangères.
+Ventes,"Les ventes représentent l'argent gagné par une entreprise grâce à la vente de ses produits ou services.
+
+1. Un magasin de vêtements vend des t-shirts et encaisse de l'argent. 2. Un restaurant facture des repas à ses clients. 3. Une librairie vend des livres et reçoit des paiements. 4. Une entreprise de logiciels vend des licences à des utilisateurs. 5. Un fleuriste vend des bouquets pour des événements. 6. Un service de nettoyage facture ses clients pour ses prestations. 7. Un constructeur automobile vend des voitures neuves. 8. Une salle de cinéma vend des billets pour des films. 9. Une entreprise de construction facture des projets de rénovation. 10. Un vendeur de voiture d'occasion vend un véhicule à un particulier. 11. Un coach sportif propose des séances d'entraînement payantes. 12. Une école de langues facture des cours à ses élèves. 13. Un site de e-commerce vend des produits en ligne. 14. Un photographe professionnel vend des tirages de ses photos. 15. Une entreprise de jardinage facture des services d'aménagement paysager.",Produits financiers,3070,"Ce compte enregistre les intérêts perçus, les dividendes et autres revenus issus des placements financiers."
+Ventes,"Les ventes désignent l'argent gagné par une entreprise en échange de ses biens ou services.
+
+1. Une boutique vend des vêtements et reçoit de l'argent en retour. 2. Un restaurant facture ses repas aux clients. 3. Une librairie encaisse des paiements pour des livres. 4. Un service de nettoyage est rémunéré pour ses prestations. 5. Un artiste vend des œuvres d'art à des collectionneurs. 6. Une entreprise de logiciels propose un abonnement et reçoit des paiements mensuels. 7. Un photographe vend des tirages de ses photos. 8. Un agriculteur vend des fruits et légumes sur un marché. 9. Une salle de sport facture des adhésions à ses membres. 10. Une société de transport perçoit des frais pour le transport de marchandises. 11. Un artisan vend des bijoux faits main lors d'un salon. 12. Un confiseur vend des bonbons dans une boutique. 13. Un consultant est payé pour des conseils professionnels. 14. Une entreprise de construction encaisse des paiements pour des projets réalisés. 15. Une école de danse facture des cours aux élèves.",Subventions reçues,3080,Ce compte enregistre les subventions gouvernementales et autres aides financières perçues par l'entreprise.
+Ventes,"Les ventes désignent les revenus obtenus par une entreprise grâce à la vente de ses biens et services.
+
+1. Une librairie vend des livres et reçoit des paiements. 2. Un restaurant génère des ventes en servant des repas à ses clients. 3. Un magasin de vêtements obtient des revenus en vendant des habits. 4. Une entreprise de logiciels fait des ventes en proposant des licences de son programme. 5. Un plombier facture des services de réparation à ses clients. 6. Une compagnie aérienne vend des billets pour des vols. 7. Un garage automobile réalise des ventes en effectuant des réparations et en vendant des pièces. 8. Un producteur agricole vend ses récoltes sur un marché. 9. Un photographe vend des tirages de ses photos. 10. Un site e-commerce génère des ventes en expédiant des produits en ligne. 11. Un salon de coiffure facture des coupes de cheveux. 12. Une entreprise de construction reçoit des paiements pour des projets de construction. 13. Un service de nettoyage génère des ventes en offrant des services à domicile. 14. Une bijouterie obtient des revenus en vendant des bijoux. 15. Une école de musique facture des cours à ses élèves.",Escomptes de volume sur ventes,3800,Ce compte enregistre les réductions accordées aux clients en fonction du volume des ventes réalisées.
+Ventes,"Les ventes sont les revenus que génère une entreprise en échange de biens ou de services qu'elle propose.
+
+1. Un magasin de vêtements vend des t-shirts et enregistre ses ventes. 2. Un restaurant facture les repas servis à ses clients. 3. Un artisan vend des meubles faits main à des particuliers. 4. Une entreprise de nettoyage offre des services de nettoyage de bureaux et reçoit des paiements. 5. Une librairie vend des livres en ligne et en magasin. 6. Un salon de coiffure facture des coupes de cheveux et des soins capillaires. 7. Une société de télécommunications vend des forfaits mobiles à ses clients. 8. Un e-commerçant vend des électroniques comme des téléviseurs et des smartphones. 9. Une entreprise de construction facture des travaux de rénovation à ses clients. 10. Un photographe professionnel vend des séances photo et des tirages. 11. Une boulangerie vend des pains et des pâtisseries. 12. Un service de streaming propose des abonnements pour accéder à sa bibliothèque de films. 13. Un studio de yoga propose des cours payants à ses participants. 14. Une entreprise de location de voitures facture des services de location à court terme. 15. Une société de conseil facture des honoraires pour ses services de conseil aux entreprises.",Marchandises retournées,3900,Ce compte enregistre la valeur des produits retournés par les clients après la vente.
+Frais variables,"Les frais variables sont des coûts liés à la production et aux ventes qui changent selon le niveau d'activité. Plus vous produisez ou vendez, plus ces frais augmentent.
+
+1. Coût des matières premières pour fabriquer des vêtements : plus vous fabriquez de vêtements, plus vous avez besoin de tissu. 2. Frais de livraison : ils augmentent si vous expédiez plus de produits. 3. Salaires des ouvriers payés à l'heure : plus ils travaillent d'heures, plus le coût total augmente. 4. Coût de l'énergie pour faire fonctionner des machines : dépend de la quantité produite. 5. Commissions de vente : les vendeurs touchent plus s'ils vendent plus. 6. Emballage des produits : le coût augmente avec le nombre d'articles à emballer. 7. Publicité basée sur les ventes : si les ventes augmentent, les frais publicitaires peuvent aussi augmenter. 8. Coût des services publics (électricité, eau) en fonction de l'utilisation des machines. 9. Coût des pièces de rechange pour les machines en fonction de la production. 10. Frais de stockage : peuvent augmenter si vous devez stocker plus de produits. 11. Coût des transports pour le réapprovisionnement en fonction de la quantité de marchandises. 12. Frais de personnel temporaire pour les périodes de forte activité. 13. Coût des outils et équipements utilisés uniquement pour des projets spécifiques. 14. Frais de maintenance des machines qui varient selon l'utilisation. 15. Coût des fournitures de bureau pour des événements spéciaux ou des campagnes promotionnelles.",Achats de matières premières,4000,Ce compte enregistre les coûts des matières premières utilisées dans la fabrication des produits.
+Frais variables,"Les frais variables sont des coûts qui changent en fonction du niveau de production ou des ventes. Plus l'activité augmente, plus ces coûts augmentent, et inversement.
+
+1. Le coût des matières premières pour fabriquer des vêtements augmente avec le nombre de pièces produites. 2. Les commissions des vendeurs qui dépendent du montant des ventes réalisées. 3. Les frais d'expédition qui augmentent avec le volume des produits expédiés. 4. Les coûts d'énergie pour faire fonctionner des machines en fonction de leur utilisation. 5. Le coût des emballages qui varie selon le nombre de produits vendus. 6. Les frais de stockage qui augmentent si plus de produits sont stockés. 7. Les salaires des ouvriers payés à l'heure, qui augmentent si la production est plus élevée. 8. Les coûts de maintenance des équipements qui augmentent avec leur utilisation. 9. Le coût des impressions publicitaires qui varie selon le nombre de campagnes lancées. 10. Les frais de nettoyage qui dépendent de la quantité de produits fabriqués. 11. Les dépenses en fournitures de bureau qui augmentent avec le nombre de clients servis. 12. Les coûts de transport qui varient selon la distance et le volume des livraisons. 13. Les frais de marketing qui augmentent avec le nombre d'événements promotionnels. 14. Le coût des services de sous-traitance qui dépend du volume de travail confié. 15. Les dépenses en recherche et développement qui peuvent varier selon les projets lancés.",Achats de matériel direct,4100,Ce compte enregistre les achats de matériel utilisé directement dans la production.
+Frais variables,"Les frais variables sont des coûts qui changent en fonction de la quantité de biens ou de services produits ou vendus. Plus on produit ou vend, plus ces coûts augmentent.
+
+1. Le coût des matières premières pour fabriquer des vêtements, qui augmente avec le nombre de vêtements produits. 
+2. Les frais de livraison qui varient selon le nombre de colis expédiés. 
+3. Les commissions versées aux vendeurs qui dépendent du volume des ventes réalisées. 
+4. Les frais de publicité pour une campagne qui augmentent si plus de produits sont mis en avant. 
+5. Le coût de l'énergie utilisé dans une usine qui augmente avec le niveau de production. 
+6. Les frais de maintenance d'une machine qui sont plus élevés si elle fonctionne plus souvent. 
+7. Les salaires des travailleurs temporaires engagés pour des périodes de forte production. 
+8. Les frais de stockage qui augmentent si plus de produits sont stockés. 
+9. Les fournitures de bureau utilisées par les employés, qui varient avec le nombre d'employés et leurs activités. 
+10. Les coûts d'emballage qui augmentent avec le volume des produits vendus. 
+11. Les frais de transport qui dépendent du nombre de produits à livrer. 
+12. Les coûts liés aux services de nettoyage qui augmentent avec l'achalandage d'un magasin. 
+13. Les frais de service client qui varient en fonction du nombre d'appels ou de demandes traitées. 
+14. Les coûts de location d'équipement qui peuvent être plus élevés lors de périodes de forte utilisation. 
+15. Les primes de performance qui dépendent des objectifs de vente atteints.",Sous-traitance,4200,Ce compte enregistre les coûts des services de sous-traitance utilisés pour la production.
+Frais variables,"Les frais variables sont des coûts qui changent selon la quantité de biens ou de services produits ou vendus. Plus on produit ou vend, plus ces frais augmentent.
+
+1. Les matières premières nécessaires à la fabrication d'un produit. 2. Les commissions payées aux vendeurs en fonction des ventes réalisées. 3. Les frais de livraison qui augmentent avec le nombre de colis expédiés. 4. Les coûts d'électricité qui varient en fonction de l'utilisation des machines. 5. Les salaires des employés horaires qui dépendent des heures travaillées. 6. Les frais de maintenance des équipements qui changent selon l'intensité de leur utilisation. 7. Les coûts de publicité qui augmentent en période de promotions. 8. Les frais de stockage qui varient avec le volume de stock. 9. Les coûts d'emballage qui dépendent du nombre de produits à expédier. 10. Les redevances sur les ventes pour les produits sous licence. 11. Les coûts de transport qui augmentent avec le nombre de livraisons. 12. Les frais de services publics qui varient avec la production. 13. Les coûts de sous-traitance qui changent selon le volume de production. 14. Les frais de nettoyage qui augmentent avec le nombre d'employés ou de clients. 15. Les coûts de retour des produits qui augmentent avec le nombre de retours.",Emballage à la production,4300,Ce compte enregistre les coûts d’emballage liés à la production de biens.
+Frais variables,"Les frais variables sont des coûts qui changent en fonction du niveau de production ou des ventes d'une entreprise.
+
+1. Coût des matières premières utilisées pour fabriquer un produit.
+2. Salaires des ouvriers payés à la pièce.
+3. Frais de transport qui augmentent avec le volume des expéditions.
+4. Coût des emballages pour les produits vendus.
+5. Commissions versées aux vendeurs basées sur le montant des ventes.
+6. Électricité utilisée pour faire fonctionner les machines de production.
+7. Coût des fournitures de bureau qui augmente avec le nombre de clients.
+8. Frais de publicité qui varient selon le nombre de produits lancés.
+9. Coût de maintenance des équipements proportionnel à leur utilisation.
+10. Frais de stockage qui augmentent avec le nombre de produits à entreposer.
+11. Coût des services de nettoyage basés sur l'activité d'un site.
+12. Frais de location d'outils ou d'équipement selon le volume de production.
+13. Coûts liés aux retours de produits, qui augmentent avec le nombre de ventes.
+14. Coût des produits périssables qui varient selon la quantité vendue.
+15. Frais de formation des employés liés à l'augmentation de la production.",Main-d’œuvre directe,4400,Ce compte enregistre les salaires des employés directement impliqués dans la production.
+Frais variables,"Les frais variables sont des coûts qui changent selon le niveau de production ou de vente d'une entreprise.
+
+1. Les matières premières utilisées pour fabriquer un produit. 2. Les commissions versées aux vendeurs basées sur les ventes réalisées. 3. Les frais de transport qui dépendent du nombre de marchandises expédiées. 4. Les coûts de l'énergie pour faire fonctionner des machines en fonction de leur utilisation. 5. Les emballages qui varient selon la quantité de produits expédiés. 6. Les coûts de maintenance des équipements qui augmentent avec l'utilisation. 7. Les frais de publicité qui changent selon le volume de vente. 8. Les salaires des ouvriers payés à l'heure, selon le nombre d'heures travaillées. 9. Les coûts de stockage qui dépendent du volume de produits en stock. 10. Les frais de service client liés au nombre d'appels ou de réclamations. 11. Les coûts de distribution qui augmentent avec le nombre de livraisons. 12. Les frais de nettoyage qui varient selon l'affluence dans un magasin. 13. Les commissions sur les ventes d'un site e-commerce. 14. Les coûts de location d'équipement qui dépendent de la durée de location. 15. Les frais de formation pour le personnel en fonction de leur nombre.",Avantages sociaux,4500,Ce compte enregistre les avantages sociaux versés aux employés de production.
+Frais variables,"Les frais variables sont les coûts liés à la production et à la vente d'un produit qui changent selon le volume d'activité. Plus vous produisez ou vendez, plus ces frais augmentent ou diminuent.
+
+1. Coût des matières premières pour fabriquer un produit, qui augmente avec la quantité produite. 2. Frais de livraison qui varient selon le nombre de commandes passées. 3. Salaires des employés payés à l'heure, augmentant avec le nombre d'heures travaillées. 4. Coût de l'énergie utilisé pour la production, qui dépend du niveau de production. 5. Commissions des ventes qui augmentent avec le nombre de ventes réalisées. 6. Coûts d'emballage qui varient en fonction du nombre d'articles expédiés. 7. Coût des services publics, comme l'eau et l'électricité, qui augmente avec l'activité. 8. Frais de marketing, comme les publicités payées par clic, qui varient selon le volume de publicité. 9. Coût des pièces de rechange pour les machines, qui dépend de l'utilisation de celles-ci. 10. Frais de maintenance qui augmentent avec le niveau d'exploitation des équipements. 11. Coût des retours de produits, qui dépend du volume de ventes. 12. Frais de stockage qui varient selon le niveau de stock nécessaire. 13. Coût des services de transport selon la distance et le volume de marchandises. 14. Coût de l'embauche temporaire pour des périodes de forte activité. 15. Frais de nettoyage qui augmentent avec le nombre de clients dans un restaurant.",Droits d’auteurs,4600,Ce compte enregistre les coûts liés aux droits d’auteur pour l’utilisation de contenu protégé.
+Frais variables,"Les frais variables sont des coûts qui changent en fonction de la quantité produite ou vendue. Plus vous produisez ou vendez, plus ces frais augmentent.
+
+1. Coût des matières premières pour fabriquer des meubles : plus vous fabriquez de meubles, plus vous achetez de bois et de tissu.
+2. Frais de livraison : si vous vendez 10 colis, vous payez pour 10 livraisons ; si vous en vendez 100, vous payez pour 100 livraisons.
+3. Salaires des ouvriers à la pièce : les travailleurs sont payés en fonction du nombre d'articles qu'ils fabriquent.
+4. Énergie utilisée dans une usine : plus la production est élevée, plus la consommation d'électricité est importante.
+5. Coût des emballages : si vous vendez plus de produits, vous aurez besoin de plus de cartons et de plastiques.
+6. Commission des vendeurs : ils touchent un pourcentage des ventes, donc plus ils vendent, plus leur commission augmente.
+7. Frais de publicité : si une campagne est plus efficace, vous pourriez décider d'augmenter votre budget publicitaire en fonction des ventes.
+8. Coût de maintenance des équipements : plus l'équipement est utilisé, plus il nécessite d'entretien.
+9. Coût de stockage : si vous avez plus de produits à stocker, les frais d'entrepôt augmenteront.
+10. Frais de service client : plus vous avez de clients, plus vous avez besoin de personnel pour répondre à leurs demandes.
+11. Coût des retours : si vous vendez plus, le nombre de retours peut également augmenter, entraînant des frais supplémentaires.
+12. Coût des licences de logiciel : certaines licences sont calculées en fonction du nombre d'utilisateurs, donc plus d'utilisateurs signifient plus de frais.
+13. Coût des fournitures de bureau : si vous avez plus d'employés, vous aurez besoin de plus de papeterie et de matériel.
+14. Coût des promotions : si vous lancez des promotions pour stimuler les ventes, cela peut entraîner des frais supplémentaires qui varient selon le volume des ventes.
+15. Coût des services externes : si vous externalisez des tâches en fonction de la charge de travail, ces coûts varieront selon la demande.",Achats de produits non fabriqués,4700,Ce compte enregistre l’achat de produits finis destinés à la revente sans transformation.
+Frais variables,"Les frais variables sont des coûts qui changent selon le niveau d'activité d'une entreprise. Plus l'entreprise produit ou vend, plus ces frais augmentent ou diminuent.
+
+1. Coût des matières premières pour un fabricant de meubles : plus il produit de meubles, plus il doit acheter de bois et de tissu.
+2. Commissions de vente : un vendeur reçoit une commission plus élevée s'il vend plus de produits.
+3. Énergie utilisée dans une usine : plus l'usine fonctionne, plus la facture d'électricité est élevée.
+4. Frais de livraison : le coût de l'expédition augmente avec le nombre de colis envoyés.
+5. Salaires des travailleurs temporaires : si une entreprise augmente sa production, elle peut embaucher plus de travailleurs temporaires.
+6. Coût des emballages : une entreprise qui vend plus de produits a besoin de plus d'emballages.
+7. Fournitures de bureau : une entreprise qui envoie plus de courriers peut avoir besoin de plus de papier et d'enveloppes.
+8. Coût de maintenance d'équipements : si une machine est utilisée plus souvent, elle peut nécessiter plus de maintenance.
+9. Coût des services de nettoyage : plus de clients dans un restaurant peuvent nécessiter plus de nettoyage.
+10. Frais de publicité liés aux promotions : une campagne de publicité peut coûter plus cher si elle est destinée à un événement avec plus de participants.
+11. Dépenses liées à l'entretien des véhicules de livraison : plus de livraisons impliquent plus de frais d'entretien.
+12. Coût des licences ou des redevances par produit vendu : une entreprise peut avoir à payer des frais supplémentaires pour chaque produit qu'elle vend.
+13. Coût d'utilisation de logiciels basés sur le volume d'affaires : plus une entreprise utilise un logiciel, plus elle paie.
+14. Coût de stockage : une entreprise qui vend plus peut avoir besoin de louer plus d'espace de stockage.
+15. Coût des services de télécommunication : plus une entreprise communique avec ses clients, plus ses frais de téléphone augmentent.",Variation des stocks,4750,Ce compte enregistre les variations de stocks entre le début et la fin d’une période comptable.
+Frais variables,"Les frais variables sont des coûts qui changent selon le niveau de production ou de vente d'une entreprise.
+
+1. Coût des matières premières pour fabriquer des vêtements, qui augmente avec le nombre de vêtements produits. 2. Salaires des ouvriers payés à la pièce, qui varient selon le nombre d'articles fabriqués. 3. Coût du transport, qui augmente avec le volume de marchandises expédiées. 4. Énergie utilisée dans une usine, qui dépend de la quantité de produits fabriqués. 5. Coût des emballages pour les produits, qui augmente avec le nombre de produits vendus. 6. Commissions des vendeurs, qui dépendent du nombre de ventes réalisées. 7. Coûts de publicité liés à des promotions spécifiques, qui varient avec le nombre d'articles vendus. 8. Frais de stockage, qui augmentent avec le volume des produits stockés. 9. Coût des services de nettoyage dans une entreprise, qui dépend de l'activité quotidienne. 10. Coût des pièces de rechange pour des équipements, qui augmente avec le nombre d'unités produites. 11. Coût d'entretien des machines, qui varie en fonction de l'utilisation. 12. Coût des services de livraison, qui dépend du nombre de livraisons effectuées. 13. Coût des licences pour des logiciels utilisés en fonction du volume d'utilisation. 14. Coût de la publicité en ligne, qui varie selon le nombre de clics ou d'impressions. 15. Coût des fournitures de bureau, qui augmente avec le volume de production ou de vente.",Commissions,4800,Ce compte enregistre les commissions versées aux vendeurs ou représentants.
+Frais variables,"Les frais variables sont des coûts qui changent en fonction du niveau de production ou de vente d'une entreprise. Plus l'activité augmente, plus ces frais augmentent, et vice versa.
+
+1. Coûts des matières premières utilisées pour fabriquer des produits. 2. Salaires des ouvriers payés à l'heure de production. 3. Factures d'électricité qui augmentent avec la production. 4. Coûts d'emballage qui dépendent du nombre d'articles vendus. 5. Frais de livraison qui varient selon le volume de commandes. 6. Commissions payées aux vendeurs basées sur leurs ventes. 7. Coûts de maintenance des machines qui augmentent avec l'utilisation. 8. Coûts de stockage qui augmentent si plus de produits sont fabriqués. 9. Matériel de bureau utilisé qui dépend du nombre d'employés actifs. 10. Coûts de publicité qui peuvent varier selon les promotions en cours. 11. Coûts de transport en fonction du nombre de produits expédiés. 12. Fournitures de nettoyage qui augmentent avec l'activité de l'entreprise. 13. Coûts d'assurance basés sur le volume d'activité. 14. Coûts liés à la gestion des déchets qui augmentent avec la production. 15. Frais de service client qui varient selon le nombre de clients assistés.",Transport (à contrat),4850,Ce compte enregistre les frais de transport engagés via des contrats externes.
+Frais variables,"Les frais variables sont des coûts qui changent selon le niveau de production ou de ventes d'une entreprise.
+
+1. Coût des matières premières utilisées pour fabriquer des produits. 2. Salaires des ouvriers payés à l'heure selon la production. 3. Frais de livraison qui augmentent avec le nombre de colis expédiés. 4. Coût de l'énergie consommée pour produire davantage. 5. Commissions versées aux vendeurs sur les ventes réalisées. 6. Frais de stockage pour des produits supplémentaires. 7. Coût des emballages qui dépend du nombre de produits vendus. 8. Coût des fournitures de bureau pour des projets spécifiques. 9. Frais de publicité liés à des campagnes spécifiques. 10. Coût des services d'entretien en fonction de l'utilisation des machines. 11. Frais de télécommunications qui augmentent avec le volume des appels. 12. Coût des pièces de rechange pour des produits fabriqués. 13. Frais de transport pour acheminer des matières premières. 14. Coût des licences ou des droits d'auteur selon le volume de ventes. 15. Frais de maintenance des équipements qui varient selon l'utilisation.",Redevances,4900,Ce compte enregistre les redevances payées pour l’utilisation de licences ou brevets.
+Frais fixes,"Les frais fixes sont des coûts réguliers d'une entreprise qui restent constants, peu importe le volume de production ou de vente.
+
+1. Loyer mensuel d'un bureau. 2. Salaires des employés permanents. 3. Assurance de l'entreprise. 4. Abonnements à des services en ligne. 5. Amortissement d'équipements. 6. Frais de maintenance des locaux. 7. Coûts des services publics (électricité, eau) pour un minimum d'utilisation. 8. Frais de publicité à contrat fixe. 9. Honoraires des consultants engagés sur une base régulière. 10. Coût d'un logiciel payé par abonnement fixe. 11. Taxes foncières. 12. Coût des licenses et permis d'exploitation. 13. Frais de nettoyage des locaux. 14. Coût des systèmes de sécurité. 15. Paiements pour des prêts à taux fixe.",Salaires de supervision,6000,Ce compte enregistre les salaires des superviseurs et contremaîtres en production.
+Frais fixes,"Les frais fixes sont les coûts d'une entreprise qui restent constants, peu importe le niveau de production ou de ventes. Ils ne changent pas en fonction de l'activité de l'entreprise.
+
+1. Loyer d'un bureau ou d'un magasin.
+2. Salaires des employés permanents.
+3. Assurances pour les locaux ou les équipements.
+4. Factures d'électricité de base, même si l'activité varie.
+5. Amortissement des machines et équipements.
+6. Frais de maintenance réguliers d'un bâtiment.
+7. Coûts d'abonnements à des logiciels utilisés par l'entreprise.
+8. Frais de publicité à long terme, comme des bannières ou panneaux fixes.
+9. Impôts locaux sur les propriétés de l'entreprise.
+10. Coûts de services publics, comme l'eau, même à faible consommation.
+11. Salaires des dirigeants ou du personnel administratif.
+12. Coûts de location d'équipements non utilisés en période de faible activité.
+13. Frais de téléphonie fixe pour l'entreprise.
+14. Coûts de nettoyage réguliers des locaux.
+15. Frais de sécurité pour les locaux de l'entreprise.",Salaires de soutien,6010,"Ce compte enregistre les salaires du personnel de soutien (concierges, inspecteurs, acheteurs, etc.)."
+Frais fixes,"Les frais fixes sont des coûts d'une entreprise qui restent constants, peu importe le volume de production ou les ventes.
+
+1. Loyer d'un local commercial. 2. Salaires des employés permanents. 3. Assurance de l'entreprise. 4. Abonnements à des services en ligne. 5. Amortissement des équipements. 6. Frais de maintenance d'un bâtiment. 7. Coûts de la publicité à long terme. 8. Frais de comptabilité et de conseil. 9. Charges d'électricité et d'eau fixes. 10. Coûts de licences et de permis. 11. Équipements de bureau (imprimantes, ordinateurs). 12. Frais de télécommunication. 13. Coûts liés à la sécurité (alarme, surveillance). 14. Frais de nettoyage réguliers. 15. Coûts des services juridiques réguliers. 16. Abonnements aux revues professionnelles. 17. Cotisations à des organisations professionnelles. 18. Dépenses liées à la formation continue des employés. 19. Coûts d'un système informatique fixe. 20. Frais de transport fixes (comme un abonnement de transport).",Entretien du terrain,6100,Ce compte enregistre les frais liés à l’entretien du terrain et des installations.
+Frais fixes,"Les frais fixes sont les coûts d'une entreprise qui restent constants, peu importe le niveau de production ou de vente. Ils ne changent pas avec l'activité de l'entreprise.
+
+1. Loyer d'un bureau ou d'un local commercial. 2. Salaires des employés permanents. 3. Assurances pour les locaux ou les équipements. 4. Abonnements à des services en ligne ou logiciels. 5. Amortissement d'équipements ou de machines. 6. Coûts de maintenance réguliers. 7. Frais de publicité contractuels. 8. Services publics comme l'eau ou l'électricité, dans une certaine mesure. 9. Frais de gestion administrative. 10. Impôts fonciers. 11. Coûts liés aux licences et permis d'exploitation. 12. Paiements de leasing pour des équipements. 13. Honoraires des consultants à long terme. 14. Frais de nettoyage régulier des locaux. 15. Coûts d'entretien des véhicules de l'entreprise.",Fournitures d’usine,6200,Ce compte enregistre les coûts des fournitures utilisées dans l’usine.
+Frais fixes,"Les frais fixes sont des coûts que l'entreprise doit payer régulièrement, peu importe son niveau de production ou de vente.
+
+1. Loyer d'un local commercial. 2. Salaires des employés permanents. 3. Assurance de l'entreprise. 4. Abonnements à des services professionnels. 5. Amortissement des équipements. 6. Frais de maintenance des locaux. 7. Coûts des services publics (eau, électricité, etc.) pour un minimum. 8. Paiement des impôts fonciers. 9. Frais de publicité engagés sur une base annuelle. 10. Coûts de logiciels de gestion. 11. Frais de gestion des ressources humaines. 12. Coûts liés à des contrats de service à long terme. 13. Dépenses pour la sécurité du bâtiment. 14. Honoraires d'experts comptables réguliers. 15. Abonnements à des revues professionnelles.",Réparations et entretien - bâtiment,6210,Ce compte enregistre les coûts liés à l’entretien et aux réparations des bâtiments.
+Frais fixes,"Les frais fixes sont des coûts d'une entreprise qui restent constants, peu importe le volume de production ou de vente. Ces dépenses n'augmentent pas ou ne diminuent pas en fonction de l'activité commerciale.
+
+1. Loyer d'un bureau ou d'un local commercial. 2. Salaires des employés permanents. 3. Assurances (local, responsabilité civile). 4. Abonnements à des logiciels. 5. Amortissement des équipements (machines, véhicules). 6. Frais de maintenance des installations. 7. Coût des services publics (eau, électricité) dans une certaine mesure. 8. Paiement des impôts fonciers. 9. Frais de publicité engagés sur une base annuelle. 10. Coûts des licences ou permis d'exploitation. 11. Frais de comptabilité ou de services juridiques réguliers. 12. Coûts de formation pour le personnel permanent. 13. Dépenses liées à la sécurité (gardiennage, alarmes). 14. Coût des services de nettoyage réguliers. 15. Abonnements à des revues professionnelles ou à des publications.",Réparations et entretien - machinerie et équipement,5220,Ce compte enregistre les coûts d’entretien et de réparation des équipements de production.
+Frais fixes,"Les frais fixes sont des coûts d'une entreprise qui restent constants, peu importe le niveau de production ou d'activité. Ils ne changent pas avec la quantité de biens ou de services produits.
+
+1. Loyer d'un bureau ou d'un local commercial. 2. Salaires des employés permanents. 3. Assurance de l'entreprise. 4. Abonnements à des services (comme Internet ou téléphone). 5. Amortissement des équipements. 6. Coûts de maintenance d'un bâtiment. 7. Frais de publicité fixe (comme une campagne annuelle). 8. Licences de logiciels utilisées toute l'année. 9. Frais de comptabilité mensuels. 10. Impôts fonciers. 11. Frais de sécurité pour locaux. 12. Coûts de services publics (comme l'eau et l'électricité) à tarif fixe. 13. Remboursements de prêts à taux fixe. 14. Coûts liés à la propriété intellectuelle. 15. Salaires des dirigeants et des administrateurs.",Dépenses - matériel roulant,6230,Ce compte enregistre les coûts d’entretien et d’utilisation des véhicules de l’entreprise.
+Frais fixes,"Les frais fixes sont des dépenses d'une entreprise qui restent constantes, peu importe le volume de production ou de vente. Ils ne changent pas directement en fonction de l'activité de l'entreprise.
+
+1. Loyer d'un bureau ou d'un local commercial.
+2. Salaires des employés permanents.
+3. Assurances pour les locaux ou les biens de l'entreprise.
+4. Abonnements à des services comme Internet ou téléphone.
+5. Amortissement des équipements, comme des machines ou des ordinateurs.
+6. Coûts liés à la maintenance des installations.
+7. Frais de comptabilité ou de conseils juridiques fixes.
+8. Publicité dans des médias réguliers (ex. : journaux locaux).
+9. Coûts de licences ou de permis d'exploitation.
+10. Services de nettoyage pour les bureaux.
+11. Dépenses pour la sécurité des locaux.
+12. Frais de location d'équipements (ex. : photocopieurs).
+13. Frais d'entretien des véhicules de l'entreprise.
+14. Coûts de gestion de l'énergie, comme l'électricité de base.
+15. Dépenses pour les services de ressources humaines fixes.",Location de machinerie,6250,Ce compte enregistre les frais de location de machines utilisées en production.
+Frais fixes,"Les frais fixes sont des coûts d'une entreprise qui restent constants, peu importe le niveau de production ou de vente. Ils ne changent pas avec l'activité économique à court terme.
+
+1. Loyer d'un local commercial. 2. Salaires des employés permanents. 3. Assurance de l'entreprise. 4. Amortissement des équipements. 5. Coûts d'entretien des locaux. 6. Frais de téléphone fixe. 7. Services de sécurité. 8. Abonnements à des logiciels. 9. Frais de comptabilité mensuels. 10. Coûts des licences et permis. 11. Salaires des dirigeants. 12. Publicité à long terme. 13. Coûts de formation des employés permanents. 14. Intérêts sur les prêts à long terme. 15. Dépenses pour la maintenance des infrastructures.",Énergie,6300,"Ce compte enregistre les coûts d’électricité, gaz, et autres sources d’énergie utilisées par l’entreprise."
+Frais fixes,"Les frais fixes sont des coûts d'une entreprise qui demeurent constants, peu importe le niveau de production ou de vente. Ils ne changent pas avec l'activité de l'entreprise.
+
+1. Le loyer d'un bureau ou d'un magasin. 2. Les salaires des employés permanents. 3. Les frais d'assurance pour les locaux. 4. Les charges de services publics de base, comme l'électricité ou l'eau. 5. Les abonnements à des logiciels ou des services en ligne. 6. Les frais de maintenance d'équipement. 7. Les impôts fonciers sur les propriétés de l'entreprise. 8. Les frais de publicité fixes, comme un contrat annuel. 9. Les dépenses liées à la location de machines. 10. Les coûts de personnel administratif. 11. Les frais de comptabilité et de conseil. 12. Les paiements de prêts ou d'intérêts fixes. 13. Les coûts liés à la sécurité des locaux. 14. Les frais d'entretien pour les véhicules de l'entreprise. 15. Les frais de télécommunication fixes, comme une ligne téléphonique.",Taxes foncières,6400,Ce compte enregistre les taxes foncières payées par l’entreprise.
+Frais fixes,"Les frais fixes sont des coûts qui restent constants, peu importe le niveau d'activité d'une entreprise.
+
+1. Loyer d'un bureau ou d'un magasin.
+2. Salaires des employés permanents.
+3. Assurance de l'entreprise.
+4. Amortissement du matériel et des équipements.
+5. Abonnements à des services professionnels (comme un logiciel). 
+6. Frais de publicité à long terme.
+7. Coûts de maintenance des installations.
+8. Paiement d'un prêt à taux fixe.
+9. Frais de comptabilité et de gestion financière. 
+10. Coût des licences de logiciels.
+11. Charges de sécurité et de surveillance. 
+12. Impôts fonciers sur les propriétés.
+13. Frais d'entretien des véhicules de l'entreprise. 
+14. Coûts de formation des employés permanents. 
+15. Frais liés à la location d'équipements spécialisés.",Loyer - bâtiment,6500,Ce compte enregistre les frais de location des bâtiments utilisés par l’entreprise.
+Frais fixes,"Les frais fixes sont des coûts qui restent constants pour une entreprise, indépendamment de la quantité de biens ou de services produits. Cela signifie qu'ils ne changent pas même si l'activité de l'entreprise augmente ou diminue.
+
+1. Loyer d'un bureau ou d'un local commercial. 2. Salaires des employés permanents. 3. Assurances pour l'entreprise. 4. Abonnements aux services de télécommunication. 5. Coûts de maintenance des équipements. 6. Amortissement des machines. 7. Coûts liés à la publicité à long terme. 8. Frais de comptabilité ou de services juridiques. 9. Impôts fonciers. 10. Frais de services publics (eau, électricité) à un niveau minimum. 11. Coûts d'adhésion à des associations professionnelles. 12. Frais de location de matériel à long terme. 13. Coûts de sécurité pour les locaux. 14. Dépenses pour la formation des employés permanents. 15. Frais de gestion administrative.",Assurances,6600,"Ce compte enregistre les primes d’assurance pour les bâtiments, équipements et responsabilité civile."
+Frais fixes,"Les frais fixes sont des coûts que l'entreprise doit payer régulièrement, indépendamment de son niveau de production ou de ses ventes.
+
+1. Loyer d'un bureau ou d'un magasin. 2. Salaires des employés permanents. 3. Assurance commerciale. 4. Abonnements à des services en ligne. 5. Prêts bancaires à rembourser. 6. Frais d'entretien des machines. 7. Charges pour les services publics (eau, électricité, etc.). 8. Amortissement des équipements. 9. Coûts de marketing fixes (publicité mensuelle). 10. Frais de gestion et d'administration. 11. Coûts des licences et permis d'exploitation. 12. Frais de location d'équipement. 13. Salaires des directeurs et responsables. 14. Coûts de l'internet et de la téléphonie. 15. Frais de comptabilité et de conseil.",Amortissements - bâtiment,6700,Ce compte enregistre l’amortissement des bâtiments de l’entreprise.
+Frais fixes,"Les frais fixes sont des coûts que l'entreprise doit payer régulièrement, indépendamment de son niveau de production ou de vente.
+
+1. Le loyer d'un bureau ou d'un local commercial. 2. Les salaires des employés permanents. 3. Les frais d'assurance pour l'entreprise. 4. Les paiements d'un prêt à long terme. 5. Les abonnements à des services (comme Internet ou logiciels). 6. Les impôts fonciers sur un bâtiment. 7. Les coûts de maintenance d'équipements fixes. 8. Les frais de comptabilité ou de gestion administrative. 9. Les dépenses liées à l'électricité pour des locaux inoccupés. 10. Les frais d'amortissement des biens matériels. 11. Les coûts de sécurité pour un bâtiment. 12. Les frais d'enregistrement des marques ou brevets. 13. Les services de nettoyage des bureaux. 14. Les cotisations à des organisations professionnelles. 15. Les dépenses pour le marketing de base, comme la création de brochures.",Amortissements - machinerie et équipement,6710,Ce compte enregistre l’amortissement des machines et équipements de production.
+Frais fixes,"Les frais fixes sont des coûts que l'entreprise doit payer régulièrement, peu importe qu'elle produise ou vende beaucoup ou peu. Ils ne changent pas en fonction de l'activité de l'entreprise.
+
+1. Loyer d'un bureau ou d'un magasin. 2. Salaires des employés permanents. 3. Assurance de l'entreprise. 4. Abonnements à des logiciels. 5. Taxes foncières. 6. Amortissement des équipements. 7. Coûts de maintenance des machines. 8. Frais de publicité à long terme. 9. Services publics (eau, électricité) fixes. 10. Frais d'entretiens réguliers. 11. Honoraires d'un comptable ou d'un consultant. 12. Coût des licences d'exploitation. 13. Frais de téléphonie fixe. 14. Coûts liés à un contrat de nettoyage. 15. Dépenses pour la sécurité du bâtiment.",Amortissements - matériel roulant,6720,Ce compte enregistre l’amortissement des véhicules de l’entreprise.
+Charges financières,"Les charges financières sont les coûts liés à l'emprunt d'argent ou aux financements d'une entreprise, incluant les intérêts et les frais associés.
+
+1. Les intérêts payés sur un prêt bancaire. 2. Les frais de dossier pour un crédit. 3. Les intérêts sur des émissions d'obligations. 4. Les frais d'assurance sur un emprunt. 5. Les intérêts sur un découvert bancaire. 6. Les frais de gestion liés à un crédit. 7. Les intérêts sur un prêt à long terme. 8. Les coûts de refinancement d'une dette. 9. Les pénalités pour paiement tardif sur un prêt. 10. Les frais de change sur des prêts en devises. 11. Les intérêts sur des lignes de crédit. 12. Les frais de transaction liés à un emprunt. 13. Les coûts d'acquisition de nouvelles dettes. 14. Les intérêts sur des prêts à court terme. 15. Les frais de consultation pour des conseils financiers.",Intérêts sur emprunts,7000,Ce compte enregistre les intérêts payés sur les emprunts contractés par l'entreprise.
+Charges financières,"Les charges financières désignent les coûts associés à l'emprunt d'argent ou à des obligations financières d'une entreprise.
+
+1. Intérêts payés sur un prêt bancaire utilisé pour financer des opérations. 2. Coûts liés à l'émission d'obligations pour lever des fonds. 3. Frais de gestion d'un crédit-bail pour des équipements. 4. Intérêts sur un découvert bancaire utilisé pour couvrir des dépenses à court terme. 5. Pénalités financières pour retard de paiement sur une dette. 6. Coûts de conversion de devises lors de transactions internationales. 7. Frais d'intermédiation pour des services financiers fournis par une banque. 8. Intérêts accumulés sur des cartes de crédit utilisées pour des achats d'entreprise. 9. Coûts d'assurance liés à des prêts pour protéger l'entreprise. 10. Frais de traitement associés à la gestion de dettes. 11. Intérêts sur des prêts à taux variable qui fluctuent avec le marché. 12. Coûts d'un consultant financier pour la restructuration de la dette. 13. Charges sur des prêts à long terme pour financer des projets d'investissement. 14. Frais de notaire pour les prêts hypothécaires. 15. Coûts liés à des garanties demandées par les créanciers.",Pertes de change,7010,Ce compte enregistre les pertes dues aux fluctuations des taux de change.
+Charges financières,"Les charges financières désignent les coûts liés à l'emprunt d'argent ou à d'autres formes de financement dans une entreprise.
+
+1. Intérêts sur un prêt bancaire utilisé pour financer l'achat d'équipement. 2. Frais d'émission d'obligations pour lever des fonds. 3. Intérêts sur une ligne de crédit utilisée pour des opérations courantes. 4. Coûts associés à la gestion d'un crédit-bail. 5. Pénalités d'intérêt pour retard de paiement sur un prêt. 6. Frais de gestion liés à un emprunt à long terme. 7. Intérêts sur des prêts interentreprises. 8. Coûts d'assurance sur un prêt immobilier. 9. Frais de notaire pour un emprunt hypothécaire. 10. Intérêts sur des cartes de crédit utilisées par l'entreprise. 11. Coûts de refinancement d'un ancien prêt. 12. Intérêts sur des dettes à court terme. 13. Frais bancaires pour la gestion de comptes de prêt. 14. Intérêts sur des avances de trésorerie. 15. Coûts liés à des instruments financiers dérivés utilisés pour couvrir les risques.",Commissions bancaires,7020,Ce compte enregistre les commissions perçues par les banques pour les services rendus à l'entreprise.
+Charges financières,"Les charges financières sont les coûts liés à l'emprunt d'argent ou à des crédits, représentant les intérêts et autres frais que l'entreprise doit payer pour financer ses activités.
+
+1. Intérêts sur un prêt bancaire pour l'achat de matériel. 2. Frais d'émission d'obligations pour lever des fonds. 3. Intérêts sur une ligne de crédit utilisée pour des opérations. 4. Commissions pour des services de gestion de dette. 5. Pénalités pour paiements tardifs sur des emprunts. 6. Coûts d'assurance liés aux prêts. 7. Intérêts sur des dettes fournisseurs. 8. Frais de conversion de devises pour des emprunts en devises étrangères. 9. Intérêts sur des prêts à long terme pour des projets d'investissement. 10. Charges d'intérêts sur des prêts à court terme pour couvrir des besoins de trésorerie. 11. Coûts des cartes de crédit utilisées pour financer des achats d'exploitation. 12. Pénalités pour remboursement anticipé d'un prêt. 13. Frais de conseils financiers pour la restructuration de la dette. 14. Intérêts sur des avances de trésorerie. 15. Coûts de garanties exigées par les prêteurs.",Frais financiers divers,7030,Ce compte enregistre les autres frais financiers engagés par l'entreprise.
+Résultat,"Le résultat est le montant qui indique la performance financière d'une entreprise sur une période donnée, en tenant compte des revenus et des dépenses. Il est souvent utilisé pour évaluer la rentabilité et la santé financière de l'entreprise.
+
+1. Une entreprise de vente au détail a réalisé un résultat de 10 000 € après avoir soustrait ses coûts de 50 000 € de ses revenus de 60 000 €.  
+2. Une société de services a un résultat net de 5 000 € après avoir facturé ses clients 30 000 € et payé 25 000 € de frais.  
+3. Un restaurant déclare un résultat de 15 000 € après avoir généré 100 000 € de ventes et supporté 85 000 € de coûts.  
+4. Une start-up technologique affiche un résultat de -2 000 €, indiquant une perte après avoir dépensé 25 000 € pour développer un nouveau produit avec des revenus de 23 000 €.  
+5. Une entreprise de construction a un résultat de 50 000 €, ses revenus s'élevant à 200 000 € et ses coûts à 150 000 €.  
+6. Un cabinet de conseil présente un résultat de 12 000 € après avoir reçu 80 000 € de ses clients et payé 68 000 € en salaires et frais.  
+7. Une librairie a un résultat de 3 000 € après des ventes de 40 000 € et des coûts de 37 000 €.  
+8. Un fabricant de jouets déclare un résultat de 25 000 €, avec des revenus de 150 000 € et des coûts de 125 000 €.  
+9. Une salle de sport affiche un résultat de 8 000 € après avoir perçu 60 000 € d'abonnements et dépensé 52 000 € en fonctionnement.  
+10. Un photographe indépendant a un résultat de 4 000 € après des revenus de 20 000 € et des dépenses de 16 000 €.  
+11. Une entreprise de logiciels présente un résultat de 30 000 €, avec des revenus de 200 000 € et des coûts de 170 000 €.  
+12. Un agriculteur déclare un résultat de 18 000 €, après des ventes de 90 000 € et des coûts de production de 72 000 €.  
+13. Un salon de coiffure a un résultat de 6 000 €, ses revenus étant de 45 000 € et ses dépenses de 39 000 €.  
+14. Une entreprise de transport affiche un résultat de 20 000 € après avoir généré 120 000 € de revenus et supporté 100 000 € de coûts.  
+15. Une société de marketing a un résultat de 11 000 €, ayant réalisé 75 000 € de chiffre d'affaires et dépensé 64 000 €.",Bénéfice avant impôt,9000,Ce compte enregistre le bénéfice de l'entreprise avant la déduction des impôts.
+Résultat,"Le résultat est la somme des gains ou pertes d'une entreprise sur une période donnée, reflétant sa performance financière.
+
+1. Une entreprise qui a généré 100 000 € de revenus et dépensé 80 000 € a un résultat net de 20 000 €.
+2. Si une société perd 10 000 € sur une année, son résultat est négatif.
+3. Une start-up qui investit 50 000 € mais réalise 70 000 € de ventes a un résultat positif de 20 000 €.
+4. Un restaurant qui clôture son année avec un résultat de 15 000 € a bien performé.
+5. Une entreprise de technologie peut afficher un résultat net de 5 millions d'euros après plusieurs années de croissance.
+6. Si une société d'assurance a des coûts de 200 000 € et des revenus de 250 000 €, son résultat net est de 50 000 €.
+7. Une société de vente au détail avec des promotions peut voir son résultat fluctuer d'une période à l'autre.
+8. Un projet entrepreneurial qui ne couvre pas ses coûts aura un résultat négatif dès sa première année.
+9. Une entreprise agricole qui réalise une bonne récolte peut voir son résultat augmenter significativement.
+10. Une entreprise de services qui réduit ses coûts peut améliorer son résultat net.
+11. Un café qui fait des bénéfices peut investir son résultat dans l'expansion.
+12. Une société qui réduit ses dépenses marketing peut affecter son résultat net à la baisse.
+13. Une firme qui acquiert une autre entreprise peut voir son résultat varier en fonction des performances globales post-acquisition.
+14. Une usine qui ferme temporairement peut enregistrer un résultat négatif pendant cette période.
+15. Une entreprise qui diversifie ses activités peut stabiliser son résultat sur le long terme.",Impôt sur le revenu,9100,Ce compte enregistre l'impôt sur le revenu dû par l'entreprise.
+Résultat,"Le résultat désigne le bénéfice ou la perte nette d'une entreprise sur une période donnée, reflétant sa performance financière.
+
+1. Une entreprise génère un bénéfice de 10 000 € sur une année. 2. Un restaurant affiche une perte de 5 000 € après avoir soustrait ses coûts des ventes. 3. Une société de services calcule un résultat net de 15 000 € après avoir payé toutes ses dépenses. 4. Une start-up termine son premier trimestre avec un résultat équilibré, sans perte ni bénéfice. 5. Une entreprise de construction réalise un bénéfice de 30 000 € après la vente de plusieurs projets. 6. Un magasin de vêtements enregistre une perte de 2 000 € en raison de stocks invendus. 7. Une compagnie aérienne déclare un résultat net de 50 millions € après une saison de voyages. 8. Un fabricant de meubles annonce un bénéfice de 20 000 € malgré des coûts de production élevés. 9. Une société technologique réalise une perte de 1 million € en raison d'un investissement risqué. 10. Un café enregistre un résultat net de 3 000 € après avoir payé tous ses frais. 11. Une entreprise agricole affiche un bénéfice de 25 000 € grâce à une bonne récolte. 12. Un studio de cinéma termine l'année avec un résultat équilibré après des projets divers. 13. Un service de livraison en ligne annonce une perte de 10 000 € en raison de frais d'exploitation élevés. 14. Une entreprise de nettoyage déclare un résultat net de 4 500 € après déduction des salaires. 15. Un club de sport enregistre un bénéfice de 12 000 € grâce à ses abonnements.",Bénéfice net,9200,Ce compte enregistre le bénéfice net après la déduction des impôts.
+Résultat,"Le résultat est le bénéfice ou la perte d'une entreprise sur une période donnée, indiquant sa performance financière.
+
+1. Une entreprise de vente de vêtements a réalisé un résultat net de 10 000 € après avoir soustrait ses coûts des ventes de ses revenus. 2. Une start-up technologique a enregistré une perte de 5 000 € lors de sa première année d'activité. 3. Un restaurant a un résultat positif de 15 000 € après avoir payé ses employés et ses charges. 4. Une société de services a affiché un résultat net de 50 000 € à la fin de l'année, après avoir pris en compte toutes ses dépenses. 5. Une entreprise agricole a eu un résultat net de 20 000 € grâce à une bonne récolte et à des ventes élevées. 6. Une agence de voyage a perdu 2 500 € en raison de la baisse du tourisme. 7. Une entreprise de construction a un résultat net de 30 000 € après avoir terminé plusieurs projets. 8. Une boutique en ligne a connu un résultat de 8 000 € après des promotions réussies. 9. Un fabricant de meubles a affiché une perte de 3 000 € suite à des retours de produits. 10. Une société de conseil a réalisé un résultat net de 40 000 € après avoir facturé ses clients. 11. Une entreprise de livraison a affiché un résultat de 12 000 € après avoir optimisé ses coûts. 12. Une société de design a enregistré une perte de 1 000 € à cause de retards de projet. 13. Une pizzeria a réalisé un résultat net de 25 000 € grâce à une augmentation de sa clientèle. 14. Une entreprise de nettoyage a affiché un résultat de 5 000 € après avoir réduit ses dépenses. 15. Une société de marketing a subi un résultat négatif de 4 000 € en raison de la concurrence accrue.",Perte nette,9300,Ce compte enregistre la perte nette après la déduction des impôts.
